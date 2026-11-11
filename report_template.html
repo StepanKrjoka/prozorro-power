@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Електроенергія для держави</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#fff1e5; --panel:#fff7ef; --ink:#262a33; --muted:#66605a; --line:#e3d3c3;
+  --accent:#990f3d; --accent-soft:#f2dfe2; --bar:#0d7680; --bar-soft:#d6ecec; --warn-bg:#fdf0d5; --warn:#7a5200;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#1d1a17; --panel:#26221e; --ink:#efe6dc; --muted:#a69a8d; --line:#3d362f;
+    --accent:#ff7a9c; --accent-soft:#3b2228; --bar:#4fb3bb; --bar-soft:#1f3436; --warn-bg:#3a2f17; --warn:#f0c87a;
+  }
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 "IBM Plex Sans",system-ui,sans-serif}
+.wrap{max-width:1180px;margin:0 auto;padding:28px 16px 80px}
+h1,h2,h3{font-family:"Source Serif 4",Georgia,serif;font-weight:700;line-height:1.2}
+h1{font-size:34px;margin:0 0 6px}
+h2{font-size:24px;margin:44px 0 6px;padding-top:14px;border-top:2px solid var(--ink)}
+.sub{color:var(--muted);margin:0 0 18px}
+.lede{max-width:760px;font-size:16px}
+.note{background:var(--warn-bg);color:var(--warn);border-left:3px solid var(--warn);padding:10px 14px;margin:14px 0;max-width:860px;font-size:14px}
+.controls{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center}
+.seg{display:inline-flex;border:1px solid var(--ink);border-radius:2px;overflow:hidden}
+.seg button{background:transparent;border:0;padding:6px 12px;font:inherit;color:var(--ink);cursor:pointer}
+.seg button.on{background:var(--ink);color:var(--bg)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{border:1px solid var(--line);background:var(--panel);border-radius:14px;padding:3px 10px;font-size:13px;cursor:pointer;user-select:none}
+.chip.on{border-color:var(--accent);background:var(--accent-soft)}
+input[type=search]{font:inherit;padding:6px 10px;border:1px solid var(--line);background:var(--panel);color:var(--ink);min-width:220px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;margin:18px 0}
+.kpi{background:var(--panel);border-top:3px solid var(--accent);padding:10px 12px}
+.kpi b{display:block;font:700 24px "Source Serif 4",serif}
+.kpi span{color:var(--muted);font-size:13px}
+.tbl{width:100%;border-collapse:collapse;font-size:14px}
+.tbl th{text-align:left;font-weight:600;color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.03em;border-bottom:1px solid var(--ink);padding:6px 8px;white-space:nowrap}
+.tbl td{border-bottom:1px solid var(--line);padding:7px 8px;vertical-align:top}
+.tbl th.n{text-align:right}
+.tbl td a{white-space:nowrap}
+.tbl td.n{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.tbl tr.click{cursor:pointer}
+.tbl tr.click:hover td{background:var(--panel)}
+.code{font-family:ui-monospace,Menlo,monospace;font-size:12.5px;color:var(--muted);white-space:nowrap}
+.barcell{position:relative;min-width:120px}
+.bar{position:absolute;left:8px;top:50%;height:8px;margin-top:-4px;background:var(--bar-soft)}
+.bar i{display:block;height:100%;background:var(--bar)}
+.detail td{background:var(--panel);font-size:13px}
+.detail table{width:100%;border-collapse:collapse}
+.detail td td{border-bottom:1px dotted var(--line);padding:4px 6px;background:none}
+a{color:var(--accent)}
+.tag{display:inline-block;font-size:11px;padding:0 6px;border-radius:8px;background:var(--line);color:var(--ink);margin-left:4px}
+.scroll{overflow-x:auto}
+.more{margin-top:8px;font:inherit;background:none;border:1px solid var(--ink);padding:5px 12px;cursor:pointer;color:var(--ink)}
+details{margin:8px 0}
+summary{cursor:pointer;font-weight:600}
+.method li{margin:4px 0}
+footer{margin-top:50px;color:var(--muted);font-size:13px}
+@media (max-width:640px){h1{font-size:26px}.tbl{font-size:13px}.hide-m{display:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Хто продає електроенергію державі</h1>
+  <p class="sub" id="sub"></p>
+  <p class="lede">Постачальники електроенергії для державних і комунальних замовників у Prozorro: обсяги договорів, ціна за
+    кіловат-годину і те, як вона змінювалася додатковими угодами. Кожен рядок веде до первинного документа на prozorro.gov.ua.</p>
+  <div class="note" id="caveat">Вибірка охоплює конкурентні закупівлі (відкриті торги, спрощені закупівлі, запити цінових пропозицій),
+    які індексує пошук Prozorro. Прямі договори, оприлюднені звітом, і переговорні процедури до неї не потрапляють.</div>
+  <div class="note" id="incomplete" style="display:none">Первинний збір ще триває: частину закупівель ще не завантажено, тому суми неповні.</div>
+
+  <div class="controls">
+    <div class="seg" id="scope">
+      <button data-v="active" class="on">Діють у 2026</button>
+      <button data-v="all">Усі підписані з <span id="from"></span></button>
+    </div>
+    <div class="seg" id="own">
+      <button data-v="" class="on">Усі</button><button data-v="державна">Державні</button><button data-v="комунальна">Комунальні</button>
+    </div>
+    <div class="chips" id="groups"></div>
+    <input type="search" id="q" placeholder="Пошук: постачальник, замовник, ЄДРПОУ">
+  </div>
+
+  <div class="kpis" id="kpis"></div>
+
+  <h2>Рейтинг постачальників</h2>
+  <div class="seg" id="by" style="margin-bottom:10px"><button data-v="entity" class="on">За юрособами</button><button data-v="holding">За групами компаній</button></div>
+  <p class="sub">Сума договорів з урахуванням додаткових угод; для розірваних — фактично сплачена сума. Середня ціна — зважена за обсягом,
+    за поточними умовами договорів. «Здорожчання» — договори, де ціна кіловат-години після додаткових угод зросла більш як на 10%.
+    Групи компаній задаються вручну у файлі overrides/suppliers.csv. Натисніть рядок, щоб побачити договори.</p>
+  <div class="scroll"><table class="tbl" id="rank"></table></div>
+  <button class="more" id="rankMore">Показати всіх</button>
+
+  <h2>Структура за групами замовників</h2>
+  <div class="scroll"><table class="tbl" id="bygroup"></table></div>
+
+  <h2>Великі договори</h2>
+  <p class="sub" id="largeSub"></p>
+  <div class="scroll"><table class="tbl" id="large"></table></div>
+  <button class="more" id="largeMore">Показати всі</button>
+
+  <h2>Здорожчання через додаткові угоди</h2>
+  <p class="sub">Договори, де ціна кіловат-години зросла більш як на 10% від ціни на момент підписання. Правила публічних закупівель дозволяють
+    збільшувати ціну за одиницю товару до 10% пропорційно зростанню ринкової ціни; кілька таких угод поспіль можуть дати більше.
+    Розрахунок — сума договору, поділена на обсяг у кВт·год, тому помилки в одиницях виміру можуть давати хибні значення: перевіряйте за посиланням.</p>
+  <div class="scroll"><table class="tbl" id="up"></table></div>
+  <button class="more" id="upMore">Показати всі</button>
+
+  <h2>Тендери з великою очікуваною вартістю</h2>
+  <p class="sub" id="bigTSub"></p>
+  <div class="scroll"><table class="tbl" id="bigT"></table></div>
+  <button class="more" id="bigTMore">Показати всі</button>
+
+  <h2>Замовники у вибірці</h2>
+  <p class="sub">Для перевірки класифікації: як кожного замовника віднесено до групи (показано до 200 найбільших у кожній групі,
+    повний список — у buyers.csv). Помилки виправляються у файлі overrides/buyers.csv.</p>
+  <div id="buyers"></div>
+
+  <h2>Методологія</h2>
+  <ul class="method" id="method"></ul>
+  <p id="downloads"></p>
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const DATA = /*__DATA__*/null;
+const M = DATA.meta;
+DATA.contracts = DATA.c.map(a => { const b = DATA.B[a[1]], s = DATA.S[a[2]]; return {
+  tender_id:a[0], url:"https://prozorro.gov.ua/tender/"+a[0], buyer:b[0], buyer_edrpou:b[1], group:b[2], group_title:M.groups[b[2]]||b[2],
+  ownership:b[3], supplier:s[0], supplier_edrpou:s[1], holding:s[2], value_rank:a[3], date_signed:a[4], period_end:a[5],
+  contract_status:a[6]?"terminated":"active", n_changes:a[7], mixed:!!(a[8]&1), active_2026:!!(a[8]&2), signed_in_period:true,
+  expected_value:a[9], kwh:a[10], p0:a[11], p1:a[12], value_initial:a[13], currency:"UAH",
+  up: a[11] && a[12] ? a[12]/a[11]-1 : null }; });
+const fmtP = v => v == null ? "—" : v.toLocaleString("uk-UA",{minimumFractionDigits:2, maximumFractionDigits:2});
+const fmtKWh = v => !v ? "—" : v >= 1e6 ? (v/1e6).toLocaleString("uk-UA",{maximumFractionDigits:1})+" млн" : Math.round(v).toLocaleString("uk-UA");
+if (M.details_incomplete) document.getElementById("incomplete").style.display = "";
+const fmtUAH = v => v == null ? "—" : (Math.abs(v) >= 1e6
+  ? (v/1e6).toLocaleString("uk-UA",{maximumFractionDigits:1}) + " млн"
+  : Math.round(v).toLocaleString("uk-UA"));
+const fullUAH = v => v == null ? "—" : Math.round(v).toLocaleString("uk-UA") + " грн";
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const link = (r) => `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.tender_id)}</a>`;
+const dateUA = d => d ? d.split("-").reverse().join(".") : "—";
+
+let scope = "active", q = "", own = "", by = "entity", active = new Set(Object.keys(M.groups)), rankAll=false, largeAll=false, bigTAll=false, upAll=false;
+
+document.getElementById("from").textContent = dateUA(M.date_from);
+document.getElementById("sub").textContent =
+  `Дані Prozorro станом на ${new Date(M.built).toLocaleString("uk-UA")} · тендери з ${dateUA(M.date_from)} · ` +
+  `«діючий у 2026» — договір із терміном дії після ${dateUA(M.active_from)}`;
+
+const gEl = document.getElementById("groups");
+const presentGroups = new Set(DATA.contracts.map(r=>r.group).concat(DATA.tenders.map(r=>r.group)));
+for (const [id,title] of Object.entries(M.groups)) {
+  if (!presentGroups.has(id)) continue;
+  const c = document.createElement("span");
+  c.className = "chip on"; c.textContent = title.replace(/ \(.*\)$/,""); c.title = title; c.dataset.g = id;
+  c.onclick = () => { active.has(id) ? active.delete(id) : active.add(id); c.classList.toggle("on"); render(); };
+  gEl.appendChild(c);
+}
+document.querySelectorAll("#scope button").forEach(b => b.onclick = () => {
+  scope = b.dataset.v; document.querySelectorAll("#scope button").forEach(x=>x.classList.toggle("on", x===b)); render();
+});
+document.querySelectorAll("#own button").forEach(b => b.onclick = () => {
+  own = b.dataset.v; document.querySelectorAll("#own button").forEach(x=>x.classList.toggle("on", x===b)); render();
+});
+document.querySelectorAll("#by button").forEach(b => b.onclick = () => {
+  by = b.dataset.v; document.querySelectorAll("#by button").forEach(x=>x.classList.toggle("on", x===b)); render();
+});
+document.getElementById("upMore").onclick = () => { upAll = !upAll; render(); };
+document.getElementById("q").oninput = e => { q = e.target.value.trim().toLowerCase(); render(); };
+document.getElementById("rankMore").onclick = () => { rankAll = !rankAll; render(); };
+document.getElementById("largeMore").onclick = () => { largeAll = !largeAll; render(); };
+document.getElementById("bigTMore").onclick = () => { bigTAll = !bigTAll; render(); };
+
+const matchQ = r => !q || [r.supplier, r.supplier_edrpou, r.holding, r.buyer, r.buyer_edrpou, r.tender_id, r.title]
+  .some(x => String(x||"").toLowerCase().includes(q));
+
+function contractsInScope() {
+  return DATA.contracts.filter(r => r.signed_in_period && (scope==="all" || r.active_2026)
+    && active.has(r.group) && (!own || r.ownership===own) && r.value_rank != null);
+}
+
+function avgPrice(rows) {
+  let v=0, k=0; for (const r of rows) if (r.kwh && r.p1) { v += r.p1*r.kwh; k += r.kwh; }
+  return k ? v/k : null;
+}
+function render() {
+  const cs = contractsInScope();
+  const csQ = cs.filter(matchQ);
+
+  // KPI
+  const total = cs.reduce((s,r)=>s+r.value_rank,0);
+  const sup = new Set(cs.map(r=>r.supplier_edrpou||r.supplier));
+
+  document.getElementById("kpis").innerHTML = [
+    [fmtUAH(total)+" грн", "сума договорів"],
+    [cs.length.toLocaleString("uk-UA"), "договорів"],
+    [sup.size.toLocaleString("uk-UA"), "постачальників"],
+    [new Set(cs.map(r=>r.buyer_edrpou)).size.toLocaleString("uk-UA"), "замовників"],
+    [fmtP(avgPrice(cs))+" грн", "середня ціна кВт·год"],
+    [cs.filter(r=>r.up>0.1).length.toLocaleString("uk-UA"), "договорів із здорожчанням >10%"],
+  ].map(([b,s])=>`<div class="kpi"><b>${b}</b><span>${s}</span></div>`).join("");
+
+  // рейтинг
+  const agg = new Map();
+  for (const r of cs) {
+    const k = (by==="holding" && r.holding) ? "H:"+r.holding : (r.supplier_edrpou || ("?"+r.supplier));
+    const a = agg.get(k) || {key:k, supplier:(by==="holding" && r.holding) ? r.holding : r.supplier,
+      edrpou:(by==="holding" && r.holding) ? "група" : r.supplier_edrpou, total:0, n:0, buyers:new Set(), rows:[]};
+    a.total += r.value_rank; a.n++; a.buyers.add(r.buyer_edrpou); a.rows.push(r); agg.set(k,a);
+  }
+  let rank = [...agg.values()].sort((a,b)=>b.total-a.total).map((a,i)=>({...a, pos:i+1}));
+  const max = rank[0]?.total || 1;
+  const rankShown = rank.filter(a => !q || matchQ({supplier:a.supplier, supplier_edrpou:a.edrpou}) || a.rows.some(matchQ));
+  const lim = rankAll ? rankShown : rankShown.slice(0, 30);
+  document.getElementById("rankMore").style.display = rankShown.length > 30 ? "" : "none";
+  document.getElementById("rankMore").textContent = rankAll ? "Згорнути" : `Показати всіх (${rankShown.length})`;
+  document.getElementById("rank").innerHTML =
+    `<tr><th>#</th><th>Постачальник</th><th>ЄДРПОУ</th><th class="n">Сума, грн</th><th class="hide-m"></th><th class="n">Частка</th><th class="n">Договорів</th><th class="n hide-m">Замовників</th><th class="n hide-m">кВт·год</th><th class="n">Сер. ціна</th><th class="n hide-m">Здорожчання</th></tr>` +
+    lim.map(a => `<tr class="click" data-k="${esc(a.key)}">
+      <td class="n">${a.pos}</td><td>${esc(a.supplier)}</td><td class="code">${esc(a.edrpou||"—")}</td>
+      <td class="n" title="${fullUAH(a.total)}">${fmtUAH(a.total)}</td>
+      <td class="barcell hide-m"><div class="bar" style="width:calc(100% - 16px)"><i style="width:${(100*a.total/max).toFixed(1)}%"></i></div></td>
+      <td class="n">${(100*a.total/(total||1)).toFixed(1)}%</td><td class="n">${a.n}</td><td class="n hide-m">${a.buyers.size}</td>
+      <td class="n hide-m">${fmtKWh(a.rows.reduce((s,r)=>s+(r.kwh||0),0))}</td><td class="n">${fmtP(avgPrice(a.rows))}</td>
+      <td class="n hide-m">${a.rows.filter(r=>r.up>0.1).length || ""}</td></tr>`).join("");
+  document.querySelectorAll("#rank tr.click").forEach(tr => tr.onclick = () => {
+    const nx = tr.nextElementSibling;
+    if (nx && nx.classList.contains("detail")) { nx.remove(); return; }
+    const a = agg.get(tr.dataset.k);
+    const rows = a.rows.slice().sort((x,y)=>y.value_rank-x.value_rank);
+    const d = document.createElement("tr"); d.className = "detail";
+    d.innerHTML = `<td colspan="11"><table>${rows.slice(0,300).map(r=>`<tr>
+      <td>${dateUA(r.date_signed)}</td><td>${esc(r.buyer)} <span class="code">${esc(r.buyer_edrpou)}</span>${by==="holding"?`<br><span class="code">постачальник: ${esc(r.supplier)}</span>`:""}</td>
+      <td class="n">${fullUAH(r.value_rank)}</td><td class="n">${fmtKWh(r.kwh)} кВт·год</td>
+      <td class="n">${fmtP(r.p0)}${r.p1 && r.p0 && Math.abs(r.p1-r.p0)>0.005 ? " → "+fmtP(r.p1) : ""} грн</td>
+      <td>${r.contract_status==="terminated"?'<span class="tag">розірваний/виконаний</span>':""}${r.n_changes?`<span class="tag">допугод: ${r.n_changes}</span>`:""}${r.mixed?'<span class="tag">є не лише електроенергія</span>':""}</td>
+      <td>${link(r)}</td></tr>`).join("")}${rows.length>300?`<tr><td colspan="7">… ще ${rows.length-300} договорів — у contracts.csv</td></tr>`:""}</table></td>`;
+    tr.after(d);
+  });
+
+  // за групами
+  const byG = new Map();
+  for (const r of cs) {
+    const g = byG.get(r.group) || {title:r.group_title, total:0, n:0, sup:new Set(), top:new Map()};
+    g.total += r.value_rank; g.n++; g.sup.add(r.supplier_edrpou||r.supplier);
+    g.top.set(r.supplier, (g.top.get(r.supplier)||0) + r.value_rank); byG.set(r.group, g);
+  }
+  document.getElementById("bygroup").innerHTML =
+    `<tr><th>Група</th><th class="n">Сума, грн</th><th class="n">Договорів</th><th class="n">Постачальників</th><th>Найбільший постачальник</th></tr>` +
+    [...byG.values()].sort((a,b)=>b.total-a.total).map(g => {
+      const [tn, tv] = [...g.top.entries()].sort((a,b)=>b[1]-a[1])[0] || ["—",0];
+      return `<tr><td>${esc(g.title)}</td><td class="n">${fmtUAH(g.total)}</td><td class="n">${g.n}</td><td class="n">${g.sup.size}</td>
+        <td>${esc(tn)} <span class="code">${(100*tv/(g.total||1)).toFixed(0)}%</span></td></tr>`;
+    }).join("");
+
+  // великі договори
+  document.getElementById("largeSub").textContent = `Договори від ${fmtUAH(M.large_contract_uah)} грн, від найбільшого.`;
+  const large = csQ.filter(r => r.value_rank >= M.large_contract_uah).sort((a,b)=>b.value_rank-a.value_rank);
+  const lL = largeAll ? large : large.slice(0, 25);
+  document.getElementById("largeMore").style.display = large.length > 25 ? "" : "none";
+  document.getElementById("largeMore").textContent = largeAll ? "Згорнути" : `Показати всі (${large.length})`;
+  document.getElementById("large").innerHTML =
+    `<tr><th>Підписано</th><th>Замовник</th><th>Постачальник</th><th class="n">Сума, грн</th><th class="n hide-m">Очікувана</th><th class="n">Ціна кВт·год</th><th class="hide-m">Дія до</th><th>Тендер</th></tr>` +
+    lL.map(r => `<tr><td>${dateUA(r.date_signed)}</td>
+      <td>${esc(r.buyer)}<br><span class="code">${esc(r.buyer_edrpou)}</span></td>
+      <td>${esc(r.supplier)}<br><span class="code">${esc(r.supplier_edrpou||"—")}</span></td>
+      <td class="n">${fullUAH(r.value_rank)}${r.n_changes?`<br><span class="tag">допугод: ${r.n_changes}</span>`:""}</td>
+      <td class="n hide-m">${fmtUAH(r.expected_value)}</td><td class="n">${fmtP(r.p0)}${r.p1 && r.p0 && Math.abs(r.p1-r.p0)>0.005 ? "<br>→ "+fmtP(r.p1) : ""}</td>
+      <td class="hide-m">${dateUA(r.period_end)}</td><td>${link(r)}</td></tr>`).join("");
+
+  // здорожчання
+  const ups = csQ.filter(r => r.up > 0.1).sort((a,b)=>b.value_rank-a.value_rank);
+  const lU = upAll ? ups : ups.slice(0, 25);
+  document.getElementById("upMore").style.display = ups.length > 25 ? "" : "none";
+  document.getElementById("upMore").textContent = upAll ? "Згорнути" : `Показати всі (${ups.length})`;
+  document.getElementById("up").innerHTML =
+    `<tr><th>Підписано</th><th>Замовник</th><th>Постачальник</th><th class="n">Ціна при підписанні</th><th class="n">Ціна зараз</th><th class="n">Зміна</th><th class="n">Допугод</th><th class="n hide-m">Сума, грн</th><th>Тендер</th></tr>` +
+    lU.map(r => `<tr><td>${dateUA(r.date_signed)}</td><td>${esc(r.buyer)}<br><span class="code">${esc(r.buyer_edrpou)}</span></td>
+      <td>${esc(r.supplier)}<br><span class="code">${esc(r.supplier_edrpou)}</span></td>
+      <td class="n">${fmtP(r.p0)}</td><td class="n">${fmtP(r.p1)}</td><td class="n">+${(100*r.up).toFixed(0)}%</td>
+      <td class="n">${r.n_changes}</td><td class="n hide-m">${fmtUAH(r.value_rank)}</td><td>${link(r)}</td></tr>`).join("");
+
+  // великі тендери (за очікуваною вартістю)
+  document.getElementById("bigTSub").textContent =
+    `Очікувана вартість від ${fmtUAH(M.large_tender_uah)} грн. Сюди потрапляють і процедури, що ще тривають або скасовані.`;
+  const bigT = DATA.tenders.filter(r => active.has(r.group) && (!own || r.ownership===own) && r.expected_value >= M.large_tender_uah && matchQ(r)
+      && (scope==="all" || r.notice_date >= M.active_from || ["active.tendering","active.enquiries","active.qualification","active.awarded","active.auction","active"].includes(r.status)))
+    .sort((a,b)=>b.expected_value-a.expected_value);
+  const lT = bigTAll ? bigT : bigT.slice(0, 25);
+  document.getElementById("bigTMore").style.display = bigT.length > 25 ? "" : "none";
+  document.getElementById("bigTMore").textContent = bigTAll ? "Згорнути" : `Показати всі (${bigT.length})`;
+  const ST = {"complete":"завершено","cancelled":"скасовано","unsuccessful":"не відбувся","active.tendering":"подання пропозицій",
+    "active.enquiries":"уточнення","active.qualification":"кваліфікація","active.awarded":"визначено переможця","active.auction":"аукціон","active":"активний"};
+  document.getElementById("bigT").innerHTML =
+    `<tr><th>Оголошено</th><th>Замовник</th><th>Предмет</th><th class="n">Очікувана, грн</th><th class="n hide-m">грн/кВт·год</th><th>Статус</th><th class="n hide-m">Пропозицій</th><th>Тендер</th></tr>` +
+    lT.map(r => `<tr><td>${dateUA(r.notice_date)}</td><td>${esc(r.buyer)}<br><span class="code">${esc(r.buyer_edrpou)}</span></td>
+      <td>${esc((r.title||"").slice(0,140))}${r.quantity?`<br><span class="code">${esc(r.quantity)}</span>`:""}</td>
+      <td class="n">${fullUAH(r.expected_value)}</td><td class="n hide-m">${fmtP(r.expected_price_kwh)}</td><td>${esc(ST[r.status]||r.status)}</td><td class="n hide-m">${r.bids}</td><td>${link(r)}</td></tr>`).join("");
+
+  // замовники
+  const bg = new Map();
+  for (const b of DATA.buyers) { if (!active.has(b.group) || (own && b.ownership!==own)) continue; (bg.get(b.group_title) || bg.set(b.group_title, []).get(b.group_title)).push(b); }
+  document.getElementById("buyers").innerHTML = [...bg.entries()].map(([t, list]) =>
+    `<details><summary>${esc(t)} — показано ${list.length} з ${(M.buyers_per_group||{})[list[0].group] ?? list.length}</summary><div class="scroll"><table class="tbl">
+     <tr><th>Замовник</th><th>ЄДРПОУ</th><th>Власність</th><th>Підстава</th><th class="n">Тендерів</th><th class="n">Договорів, грн</th></tr>
+     ${list.filter(b=>!q || [b.buyer,b.buyer_edrpou].some(x=>String(x||"").toLowerCase().includes(q))).map(b=>`<tr><td>${esc(b.buyer)}</td><td class="code">${esc(b.buyer_edrpou)}</td>
+       <td>${esc(b.ownership)}</td><td>${esc(b.group_reason)}</td><td class="n">${b.tenders}</td><td class="n">${fmtUAH(b.contracts_value)}</td></tr>`).join("")}
+     </table></div></details>`).join("");
+}
+
+// методологія і посилання на дані
+(function(){
+  const rej = Object.entries(M.rejected||{}).map(([k,v])=>`${k}: ${v}`).join("; ");
+  document.getElementById("method").innerHTML = [
+    `Кандидати відібрано через пошук prozorro.gov.ua за CPV-кодом 09310000-5 «Електрична енергія», за датою оголошення з ${dateUA(M.date_from)}. Пошук індексує конкурентні процедури; прямі договори, оприлюднені звітом, і переговорні процедури до вибірки не потрапляють.`,
+    `Повні дані кожного тендера і договору завантажено з офіційного публічного API (public-api.prozorro.gov.ua). Договір враховано, якщо серед його позицій є електроенергія (CPV 0931 або опис); позначка «є не лише електроенергія» означає, що сума включає й інші послуги.`,
+    `Сума договору — поточна вартість з модуля договорів з урахуванням додаткових угод; для розірваних і виконаних — фактично сплачена сума, якщо замовник її вказав. Суми — як оприлюднив замовник, переважно з ПДВ.`,
+    `Ціна кіловат-години — сума договору, поділена на обсяг у кВт·год (одиниці МВт·год перераховано). Ціна при підписанні рахується з початкових умов, поточна — з умов після додаткових угод. Обсяг у договорі — запланований, а не фактично спожитий.`,
+    `Замовників віднесено до груп за назвою (правила — у config.json), власність (державна/комунальна) визначено за назвою і може бути «не визначено». Постачальників об'єднано за кодом ЄДРПОУ; групи компаній задаються вручну після перевірки за реєстрами.`,
+    `Відсіяно: ${rej || "—"}. Кандидатів з пошуку: ${M.candidates}, тендерів у вибірці: ${M.tenders}, договорів: ${M.contracts}.`
+  ].map(x=>`<li>${x}</li>`).join("");
+  const m = location.hostname.match(/^([^.]+)\.github\.io$/);
+  const repo = m && location.pathname.split("/").filter(Boolean)[0];
+  const base = m && repo ? `https://github.com/${m[1]}/${repo}/blob/main/data/` : "../data/";
+  const files = [["contracts.csv","усі договори"],["tenders.csv","усі тендери"],["suppliers_active_2026.csv","рейтинг юросіб: діючі у 2026"],
+    ["holdings_active_2026.csv","рейтинг груп компаній"],["suppliers_signed_since_start.csv","рейтинг: усі з початку періоду"],["buyers.csv","замовники і групи"]];
+  document.getElementById("downloads").innerHTML = "Дані: " + files.map(([f,t])=>`<a href="${base}${f}">${t}</a>`).join(" · ");
+  document.getElementById("foot").textContent = "Джерело: Prozorro (відкриті дані, вільне повторне використання з посиланням на джерело).";
+})();
+render();
+</script>
+</body>
+</html>
