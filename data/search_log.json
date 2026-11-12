@@ -1,0 +1,437 @@
+[
+ {
+  "run": "2026-11-12T12:28:52+00:00",
+  "windows": [
+   {
+    "query": "cpv",
+    "start": "2025-01-01",
+    "end": "2025-01-08",
+    "total": 602,
+    "fetched": 602
+   },
+   {
+    "query": "cpv",
+    "start": "2025-01-09",
+    "end": "2025-01-16",
+    "total": 554,
+    "fetched": 554
+   },
+   {
+    "query": "cpv",
+    "start": "2025-01-17",
+    "end": "2025-01-31",
+    "total": 587,
+    "fetched": 587
+   },
+   {
+    "query": "cpv",
+    "start": "2025-02-01",
+    "end": "2025-02-28",
+    "total": 652,
+    "fetched": 652
+   },
+   {
+    "query": "cpv",
+    "start": "2025-03-01",
+    "end": "2025-03-31",
+    "total": 668,
+    "fetched": 668
+   },
+   {
+    "query": "cpv",
+    "start": "2025-04-01",
+    "end": "2025-04-30",
+    "total": 709,
+    "fetched": 709
+   },
+   {
+    "query": "cpv",
+    "start": "2025-05-01",
+    "end": "2025-05-31",
+    "total": 622,
+    "fetched": 622
+   },
+   {
+    "query": "cpv",
+    "start": "2025-06-01",
+    "end": "2025-06-30",
+    "total": 513,
+    "fetched": 513
+   },
+   {
+    "query": "cpv",
+    "start": "2025-07-01",
+    "end": "2025-07-31",
+    "total": 369,
+    "fetched": 369
+   },
+   {
+    "query": "cpv",
+    "start": "2025-08-01",
+    "end": "2025-08-31",
+    "total": 726,
+    "fetched": 726
+   },
+   {
+    "query": "cpv",
+    "start": "2025-09-01",
+    "end": "2025-09-30",
+    "total": 989,
+    "fetched": 989
+   },
+   {
+    "query": "cpv",
+    "start": "2025-10-01",
+    "end": "2025-10-16",
+    "total": 615,
+    "fetched": 615
+   },
+   {
+    "query": "cpv",
+    "start": "2025-10-17",
+    "end": "2025-10-31",
+    "total": 971,
+    "fetched": 971
+   },
+   {
+    "query": "cpv",
+    "start": "2025-11-01",
+    "end": "2025-11-08",
+    "total": 518,
+    "fetched": 518
+   },
+   {
+    "query": "cpv",
+    "start": "2025-11-09",
+    "end": "2025-11-15",
+    "total": 904,
+    "fetched": 904
+   },
+   {
+    "query": "cpv",
+    "start": "2025-11-16",
+    "end": "2025-11-19",
+    "total": 662,
+    "fetched": 662
+   },
+   {
+    "query": "cpv",
+    "start": "2025-11-20",
+    "end": "2025-11-23",
+    "total": 517,
+    "fetched": 517
+   },
+   {
+    "query": "cpv",
+    "start": "2025-11-24",
+    "end": "2025-11-25",
+    "total": 555,
+    "fetched": 555
+   },
+   {
+    "query": "cpv",
+    "start": "2025-11-26",
+    "end": "2025-11-27",
+    "total": 452,
+    "fetched": 452
+   },
+   {
+    "query": "cpv",
+    "start": "2025-11-28",
+    "end": "2025-11-30",
+    "total": 236,
+    "fetched": 236
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-01",
+    "end": "2025-12-02",
+    "total": 601,
+    "fetched": 601
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-03",
+    "end": "2025-12-04",
+    "total": 788,
+    "fetched": 788
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-05",
+    "end": "2025-12-08",
+    "total": 897,
+    "fetched": 897
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-09",
+    "end": "2025-12-09",
+    "total": 558,
+    "fetched": 558
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-10",
+    "end": "2025-12-10",
+    "total": 648,
+    "fetched": 648
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-11",
+    "end": "2025-12-11",
+    "total": 683,
+    "fetched": 683
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-12",
+    "end": "2025-12-12",
+    "total": 799,
+    "fetched": 799
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-13",
+    "end": "2025-12-14",
+    "total": 88,
+    "fetched": 88
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-15",
+    "end": "2025-12-15",
+    "total": 895,
+    "fetched": 895
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-16",
+    "end": "2025-12-16",
+    "total": 907,
+    "fetched": 907
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-17",
+    "end": "2025-12-17",
+    "total": 958,
+    "fetched": 958
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-18",
+    "end": "2025-12-18",
+    "total": 876,
+    "fetched": 876
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-19",
+    "end": "2025-12-20",
+    "total": 905,
+    "fetched": 905
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-21",
+    "end": "2025-12-22",
+    "total": 852,
+    "fetched": 852
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-23",
+    "end": "2025-12-23",
+    "total": 698,
+    "fetched": 698
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-24",
+    "end": "2025-12-24",
+    "total": 667,
+    "fetched": 667
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-25",
+    "end": "2025-12-26",
+    "total": 931,
+    "fetched": 931
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-27",
+    "end": "2025-12-28",
+    "total": 125,
+    "fetched": 125
+   },
+   {
+    "query": "cpv",
+    "start": "2025-12-29",
+    "end": "2025-12-31",
+    "total": 833,
+    "fetched": 833
+   },
+   {
+    "query": "cpv",
+    "start": "2026-01-01",
+    "end": "2026-01-08",
+    "total": 810,
+    "fetched": 810
+   },
+   {
+    "query": "cpv",
+    "start": "2026-01-09",
+    "end": "2026-01-16",
+    "total": 601,
+    "fetched": 601
+   },
+   {
+    "query": "cpv",
+    "start": "2026-01-17",
+    "end": "2026-01-24",
+    "total": 525,
+    "fetched": 525
+   },
+   {
+    "query": "cpv",
+    "start": "2026-01-25",
+    "end": "2026-01-31",
+    "total": 558,
+    "fetched": 558
+   },
+   {
+    "query": "cpv",
+    "start": "2026-02-01",
+    "end": "2026-02-04",
+    "total": 598,
+    "fetched": 598
+   },
+   {
+    "query": "cpv",
+    "start": "2026-02-05",
+    "end": "2026-02-07",
+    "total": 453,
+    "fetched": 453
+   },
+   {
+    "query": "cpv",
+    "start": "2026-02-08",
+    "end": "2026-02-14",
+    "total": 685,
+    "fetched": 685
+   },
+   {
+    "query": "cpv",
+    "start": "2026-02-15",
+    "end": "2026-02-21",
+    "total": 592,
+    "fetched": 592
+   },
+   {
+    "query": "cpv",
+    "start": "2026-02-22",
+    "end": "2026-02-28",
+    "total": 442,
+    "fetched": 442
+   },
+   {
+    "query": "cpv",
+    "start": "2026-03-01",
+    "end": "2026-03-16",
+    "total": 766,
+    "fetched": 766
+   },
+   {
+    "query": "cpv",
+    "start": "2026-03-17",
+    "end": "2026-03-31",
+    "total": 566,
+    "fetched": 566
+   },
+   {
+    "query": "cpv",
+    "start": "2026-04-01",
+    "end": "2026-04-30",
+    "total": 735,
+    "fetched": 735
+   },
+   {
+    "query": "cpv",
+    "start": "2026-05-01",
+    "end": "2026-05-31",
+    "total": 629,
+    "fetched": 629
+   },
+   {
+    "query": "cpv",
+    "start": "2026-06-01",
+    "end": "2026-06-30",
+    "total": 609,
+    "fetched": 609
+   },
+   {
+    "query": "cpv",
+    "start": "2026-07-01",
+    "end": "2026-07-31",
+    "total": 544,
+    "fetched": 544
+   },
+   {
+    "query": "cpv",
+    "start": "2026-08-01",
+    "end": "2026-08-31",
+    "total": 822,
+    "fetched": 822
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-01",
+    "end": "2026-09-15",
+    "total": 450,
+    "fetched": 450
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-16",
+    "end": "2026-09-30",
+    "total": 719,
+    "fetched": 719
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-01",
+    "end": "2026-10-16",
+    "total": 918,
+    "fetched": 918
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-17",
+    "end": "2026-10-24",
+    "total": 635,
+    "fetched": 635
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-25",
+    "end": "2026-10-31",
+    "total": 430,
+    "fetched": 430
+   },
+   {
+    "query": "cpv",
+    "start": "2026-11-01",
+    "end": "2026-11-12",
+    "total": 822,
+    "fetched": 822
+   }
+  ],
+  "truncated": [],
+  "seen": 40039,
+  "kept": 40039
+ }
+]
