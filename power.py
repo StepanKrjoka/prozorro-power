@@ -34,6 +34,7 @@ RAW_C = os.path.join(DATA, "raw", "contracts")
 DOCS = os.path.join(ROOT, "docs")
 
 SEARCH_URL = "https://prozorro.gov.ua/api/search/tenders"
+SKIP_STATUSES = ("unsuccessful", "cancelled")
 SUMMARY_URL = "https://prozorro.gov.ua/api/tenders/{}/summary"
 TENDER_URL = "https://public-api.prozorro.gov.ua/api/2.5/tenders/{}"
 CONTRACT_URL = "https://public-api.prozorro.gov.ua/api/2.5/contracts/{}"
@@ -444,6 +445,8 @@ def cmd_details(cfg, args):
         t = T.get(month, tid)
         stale = t is not None and t.get("status") not in FINAL_STATUSES and \
             time.time() - float(t.get("_fetched") or 0) > args.tender_ttl * 86400
+        if t is None and c.get("status") in SKIP_STATUSES and not args.refetch:
+            continue                                     # скасовані й неуспішні тендери договорів не мають
         if t is None or stale or args.refetch:
             h = c.get("id")
             if not h:
@@ -515,7 +518,8 @@ def cmd_build(cfg, args):
         month = month_of(tid)
         t = T.get(month, tid)
         if not t:
-            rejected["ще не завантажено"] += 1
+            st = (cands[tid] or {}).get("status")
+            rejected["скасовано або не відбулася (не завантажувались)" if st in SKIP_STATUSES else "ще не завантажено"] += 1
             continue
         pe = t.get("procuringEntity") or {}
         b_code, b_name = edr(pe), pe.get("name") or ""
