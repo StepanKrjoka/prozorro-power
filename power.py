@@ -176,10 +176,13 @@ def ownership(cfg, name, kind=None):
 
 
 def is_target_item(cfg, item):
-    pref = cfg["item_cpv_prefixes"]
+    """Позиція — електроенергія, якщо її CPV починається з 0931. Ключові слова в описі — лише для позицій без CPV
+    або із «заглушкою» 99999999-9: інакше потрапляють розподіл, обладнання, ремонт мереж «електричної енергії»."""
     cpv = ((item.get("classification") or {}).get("id") or "")
-    if any(cpv.startswith(p) for p in pref):
+    if any(cpv.startswith(p) for p in cfg["item_cpv_prefixes"]):
         return True
+    if cpv and not cpv.startswith("99999999"):
+        return False
     d = (item.get("description") or "").lower()
     return any(k in d for k in cfg["_kw"])
 
