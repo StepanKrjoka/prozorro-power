@@ -76,7 +76,8 @@ footer{margin-top:50px;color:var(--muted);font-size:13px}
 
   <div class="controls">
     <div class="seg" id="scope">
-      <button data-v="active" class="on">Діють у 2026</button>
+      <button data-v="now">Діють зараз</button>
+      <button data-v="active" class="on">Діяли у 2026</button>
       <button data-v="all">Усі підписані з <span id="from"></span></button>
     </div>
     <div class="seg" id="own">
@@ -147,6 +148,8 @@ const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;
 const link = (r) => `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.tender_id)}</a>`;
 const dateUA = d => d ? d.split("-").reverse().join(".") : "—";
 
+const TODAY = (M.built || new Date().toISOString()).slice(0,10);
+const isNow = r => r.contract_status!=="terminated" && (!r.period_end || r.period_end.slice(0,10) >= TODAY);
 let scope = "active", q = "", own = "", by = "entity", active = new Set(Object.keys(M.groups)), rankAll=false, largeAll=false, bigTAll=false, upAll=false;
 
 document.getElementById("from").textContent = dateUA(M.date_from);
@@ -182,7 +185,7 @@ const matchQ = r => !q || [r.supplier, r.supplier_edrpou, r.holding, r.buyer, r.
   .some(x => String(x||"").toLowerCase().includes(q));
 
 function contractsInScope() {
-  return DATA.contracts.filter(r => r.signed_in_period && (scope==="all" || r.active_2026)
+  return DATA.contracts.filter(r => r.signed_in_period && (scope==="all" || (scope==="now" ? isNow(r) : r.active_2026))
     && active.has(r.group) && (!own || r.ownership===own) && r.value_rank != null);
 }
 
@@ -291,7 +294,7 @@ function render() {
   document.getElementById("bigTSub").textContent =
     `Очікувана вартість від ${fmtUAH(M.large_tender_uah)} грн. Сюди потрапляють і процедури, що ще тривають або скасовані.`;
   const bigT = DATA.tenders.filter(r => active.has(r.group) && (!own || r.ownership===own) && r.expected_value >= M.large_tender_uah && matchQ(r)
-      && (scope==="all" || r.notice_date >= M.active_from || ["active.tendering","active.enquiries","active.qualification","active.awarded","active.auction","active"].includes(r.status)))
+      && (scope!=="active" && scope!=="now" || r.notice_date >= M.active_from || ["active.tendering","active.enquiries","active.qualification","active.awarded","active.auction","active"].includes(r.status)))
     .sort((a,b)=>b.expected_value-a.expected_value);
   const lT = bigTAll ? bigT : bigT.slice(0, 25);
   document.getElementById("bigTMore").style.display = bigT.length > 25 ? "" : "none";
@@ -324,6 +327,7 @@ function render() {
     `Сума договору — поточна вартість з модуля договорів з урахуванням додаткових угод; для розірваних і виконаних — фактично сплачена сума, якщо замовник її вказав. Суми — як оприлюднив замовник, переважно з ПДВ.`,
     `Ціна кіловат-години — сума договору, поділена на обсяг у кВт·год (одиниці МВт·год перераховано). Ціна при підписанні рахується з початкових умов, поточна — з умов після додаткових угод. Обсяг у договорі — запланований, а не фактично спожитий.`,
     `Замовників віднесено до груп за назвою (правила — у config.json), власність (державна/комунальна) визначено за назвою і може бути «не визначено». Постачальників об'єднано за кодом ЄДРПОУ; групи компаній задаються вручну після перевірки за реєстрами.`,
+    `«Діяли у 2026» — договори, строк дії яких закінчується ${dateUA(M.active_from)} або пізніше, включно з уже виконаними чи розірваними. «Діють зараз» — договори, не позначені в Prozorro як виконані чи розірвані, строк дії яких ще не минув на дату оновлення даних (${dateUA(TODAY)}). Суми — це зобов'язання за договорами, а не фактичні платежі.`,
     `Відсіяно: ${rej || "—"}. Кандидатів з пошуку: ${M.candidates}, тендерів у вибірці: ${M.tenders}, договорів: ${M.contracts}.`
   ].map(x=>`<li>${x}</li>`).join("");
   const m = location.hostname.match(/^([^.]+)\.github\.io$/);
