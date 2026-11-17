@@ -252178,7 +252178,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "1b5d269fbb2d4f77b1f54ae95d771df9"
  },
  "UA-2026-09-23-004273-a": {
@@ -255475,7 +255475,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "unsuccessful",
   "id": "ef6589ed1aa84972bd70b7526b7045cb"
  },
  "UA-2026-10-16-002925-a": {
@@ -255615,7 +255615,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "7a915c692ea74163864f79fdab230afb"
  },
  "UA-2026-10-15-012972-a": {
@@ -255713,7 +255713,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "b07edb4588f34264add43b59befab58b"
  },
  "UA-2026-10-15-011592-a": {
@@ -257596,7 +257596,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "f7bf17561e8d4675981fac0f1fe992fc"
  },
  "UA-2026-10-12-011622-a": {
@@ -261978,7 +261978,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "unsuccessful",
   "id": "0b2a91876c2047b39ba32407d492af54"
  },
  "UA-2026-10-23-000820-a": {
@@ -262125,7 +262125,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "c6b420b413434107a2da68ac56b03c67"
  },
  "UA-2026-10-22-015424-a": {
@@ -262146,7 +262146,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "696fbf06d77e4f79b89cb2324e8d305a"
  },
  "UA-2026-10-22-015083-a": {
@@ -263056,7 +263056,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "a04060bdfcfe4f1d8e21c828fdca09ee"
  },
  "UA-2026-10-21-014008-a": {
@@ -263189,7 +263189,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "68855920bc094ca9b0add7faa61610a8"
  },
  "UA-2026-10-21-011896-a": {
@@ -264505,7 +264505,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "cancelled",
   "id": "a04e9326e506495ca2679b51107a4b59"
  },
  "UA-2026-10-20-006534-a": {
@@ -265219,7 +265219,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "eac9645bafa34865ba6b52aea68654c0"
  },
  "UA-2026-10-19-009192-a": {
@@ -265240,7 +265240,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "4dfb5caa5ba44d9f98617ee2fc4cddfc"
  },
  "UA-2026-10-19-008928-a": {
@@ -265709,14 +265709,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "500eb458e2db49b9843bde34951f100b"
  },
  "UA-2026-10-30-010058-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "b4abb68ce659485a8cc00cf4f15e228e"
  },
  "UA-2026-10-30-010026-a": {
@@ -265779,7 +265779,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "e1282c17c352403093d48c1fc5e3e7c1"
  },
  "UA-2026-10-30-008919-a": {
@@ -265807,7 +265807,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "d6d91589506c488eb23ab4c714bfe5ac"
  },
  "UA-2026-10-30-008224-a": {
@@ -265870,7 +265870,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "5704dda4be5b4da1b95e13699aba22d2"
  },
  "UA-2026-10-30-006360-a": {
@@ -265989,7 +265989,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "6eff52955077409fba95c2b5fdaac8f3"
  },
  "UA-2026-10-30-002375-a": {
@@ -266171,7 +266171,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "191d007b86924caeb9b13bc0b618bec7"
  },
  "UA-2026-10-29-008307-a": {
@@ -266325,7 +266325,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "dfb0429a1bf04a1fbc1ccbc05a9a24cc"
  },
  "UA-2026-10-29-004747-a": {
@@ -266577,7 +266577,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "795d519b53394190bb935bfedce483a8"
  },
  "UA-2026-10-28-013546-a": {
@@ -266640,7 +266640,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "6db5495bb04241d3988539f012357c3e"
  },
  "UA-2026-10-28-011614-a": {
@@ -266675,7 +266675,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "2a3dd8caf3e94d0a84e4bf4e4faf13ad"
  },
  "UA-2026-10-28-010142-a": {
@@ -266724,14 +266724,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "a43d3788f98d42048b1b88faf673c374"
  },
  "UA-2026-10-28-009425-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "997e529580c942ed8053c09be4b0b912"
  },
  "UA-2026-10-28-009171-a": {
@@ -266787,7 +266787,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "114c733e8f264cd3bcae68f81e649513"
  },
  "UA-2026-10-28-006728-a": {
@@ -266822,7 +266822,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "411e1094e209495ab4a7d05de1bbff8b"
  },
  "UA-2026-10-28-006067-a": {
@@ -266899,7 +266899,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "ab277852a2784b5b8225381d3ae9f1ba"
  },
  "UA-2026-10-28-004458-a": {
@@ -266927,7 +266927,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "c03096693c0740b38e48e7fe43a2dff8"
  },
  "UA-2026-10-28-003577-a": {
@@ -267151,7 +267151,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "2b2322735b3147cdb7e431f01acb8818"
  },
  "UA-2026-10-27-013981-a": {
@@ -267396,7 +267396,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "e6e50a704d5c4e0292e146446afe56b9"
  },
  "UA-2026-10-27-008040-a": {
@@ -267508,7 +267508,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "b65110a52d964a05b40fba542a52e93b"
  },
  "UA-2026-10-27-005101-a": {
@@ -267592,7 +267592,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "cbdf238631644225bb776d0406a58c61"
  },
  "UA-2026-10-27-003354-a": {
@@ -267781,7 +267781,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "986be1d5673d439180bf5794cd62d60d"
  },
  "UA-2026-10-26-013849-a": {
@@ -268705,14 +268705,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "a888a2a8976943fbb6ff552f953e796a"
  },
  "UA-2026-11-12-009920-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "53050d32049c49c78a1ea57b375c9d18"
  },
  "UA-2026-11-12-009877-a": {
@@ -268726,7 +268726,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "4270b516ba9a4e6cbe115628fc3eece7"
  },
  "UA-2026-11-12-009739-a": {
@@ -268740,7 +268740,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "cancelled",
   "id": "c1312a45c0884b66af277c63efaa7637"
  },
  "UA-2026-11-12-009505-a": {
@@ -268775,14 +268775,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "cancelled",
   "id": "41b0ec25f809459c979e979e7924bf0a"
  },
  "UA-2026-11-12-009074-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "f325cd8416a84639aa5f5cccf0b7290a"
  },
  "UA-2026-11-12-009049-a": {
@@ -268796,7 +268796,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "1b4be6fa55414b308fe7bba3f4422d05"
  },
  "UA-2026-11-12-008915-a": {
@@ -268810,7 +268810,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "86d0b20424394659937246fcdab511e1"
  },
  "UA-2026-11-12-008888-a": {
@@ -268831,14 +268831,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "d4a7eaa35c7d483e8f429d0e9ab343ac"
  },
  "UA-2026-11-12-008325-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "127ad7532bec4e68bb617bd695c197f4"
  },
  "UA-2026-11-12-008120-a": {
@@ -268859,7 +268859,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "b5e5b87c4acb473186f28a4e390fd29f"
  },
  "UA-2026-11-12-008045-a": {
@@ -268894,21 +268894,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "2121fcabd42c47f39acbd7d6fb4e4348"
  },
  "UA-2026-11-12-007303-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "cancelled",
   "id": "c74c7873412f4c61bbf401a24c208367"
  },
  "UA-2026-11-12-007183-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "f8713bdd2d0646a3ad094ae02d0107f1"
  },
  "UA-2026-11-12-007168-a": {
@@ -268922,21 +268922,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "fe74af7f61024b378b76b196edd45602"
  },
  "UA-2026-11-12-007057-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "cancelled",
   "id": "c2c347451f7d4890ba08b4a527618e32"
  },
  "UA-2026-11-12-007055-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "0ee635c124a14fd0b6a7a93cd1e009bf"
  },
  "UA-2026-11-12-007046-a": {
@@ -268950,14 +268950,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "520620b8c0444d1ba620b16fa7223039"
  },
  "UA-2026-11-12-006966-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "3e41728a5d8a4caebdfb0c06de9deba6"
  },
  "UA-2026-11-12-006919-a": {
@@ -268971,14 +268971,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "cancelled",
   "id": "cd310ac14f0544d7a1c94c2682cd1511"
  },
  "UA-2026-11-12-006844-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "9a1333db0258472a8ab270b50b83a7ed"
  },
  "UA-2026-11-12-006839-a": {
@@ -268999,21 +268999,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "f622ebaa616a4622ae1607168d4fa385"
  },
  "UA-2026-11-12-006494-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "b33518e51060452c9880be0979864f53"
  },
  "UA-2026-11-12-006171-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "baa73548ebc5453b92d8744e8aff6c0a"
  },
  "UA-2026-11-12-006090-a": {
@@ -269034,14 +269034,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "d94ab81cbff245fe8d0d2932e6ae0d63"
  },
  "UA-2026-11-12-005902-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "5f230c7eb9a346758103e7e9410e0d80"
  },
  "UA-2026-11-12-005764-a": {
@@ -269055,14 +269055,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "feb875dde684462abfaf4d87e033e0d6"
  },
  "UA-2026-11-12-005745-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "5359b32aef47422ea1b065feb8a0d3db"
  },
  "UA-2026-11-12-005700-a": {
@@ -269076,7 +269076,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "a9be5556e93a44e3bedfb6d6d18befc6"
  },
  "UA-2026-11-12-005634-a": {
@@ -269111,49 +269111,49 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "2f5b2f7fd9d6456c92ae83b9b135e37d"
  },
  "UA-2026-11-12-005224-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "2034ea0d3a2f48a0800653867392b317"
  },
  "UA-2026-11-12-005148-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "4e44444d76104b84952d7b504c45dae0"
  },
  "UA-2026-11-12-004875-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "5ad80d128ea0436da2075e0003fedfe1"
  },
  "UA-2026-11-12-004859-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "d14d8c93540245b39f0baedee1a81399"
  },
  "UA-2026-11-12-004844-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "e997f0f367824c3a85776fa29a4917a7"
  },
  "UA-2026-11-12-004769-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "cancelled",
   "id": "e7863dcf265346998618bdf015fdc00a"
  },
  "UA-2026-11-12-004674-a": {
@@ -269188,7 +269188,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "12939bdb46904120bcb7d6a1c613555b"
  },
  "UA-2026-11-12-004216-a": {
@@ -269202,14 +269202,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "ce1be5627333480c97134f38821d525e"
  },
  "UA-2026-11-12-003774-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "29751c8904064310b3c78cfba222fb4d"
  },
  "UA-2026-11-12-003622-a": {
@@ -269237,7 +269237,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "2b352aa93a924e9a963e14b3828febc9"
  },
  "UA-2026-11-12-002947-a": {
@@ -269251,42 +269251,42 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "02281045f40b4cbbbb679de6f91c8605"
  },
  "UA-2026-11-12-002180-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "4cdc959e8a694da68991f4fc33321f7c"
  },
  "UA-2026-11-12-002158-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "f04690a401204fe9a3aaa8469be7c383"
  },
  "UA-2026-11-12-001867-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "b274aac811964f30ba9667f671dffad0"
  },
  "UA-2026-11-12-001720-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "85b8d9c1d63c4d948a019b19d766f841"
  },
  "UA-2026-11-12-001517-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "b42d882464a74ce3af110a63b1eafdc3"
  },
  "UA-2026-11-12-001444-a": {
@@ -269356,35 +269356,35 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "cancelled",
   "id": "aa49e943e1b34de69ce24f1e1296738f"
  },
  "UA-2026-11-11-018033-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "1f02e1afe7b84a53a1f0b9568bafd3d4"
  },
  "UA-2026-11-11-017966-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.enquiries",
+  "status": "active.tendering",
   "id": "69a79018d22c4f56a0d3e2556bc2ed5f"
  },
  "UA-2026-11-11-017810-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "2c24d05e27f94df2b0265cdbbdb3b5fc"
  },
  "UA-2026-11-11-017506-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "85f22606ca0e4ed59e7f22ee14850a7c"
  },
  "UA-2026-11-11-017442-a": {
@@ -269419,7 +269419,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "64f67167becf49bc892d9f71944a4161"
  },
  "UA-2026-11-11-016874-a": {
@@ -269440,7 +269440,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "2b98d2b6d1904f378b8d7d123b3d5d0d"
  },
  "UA-2026-11-11-016461-a": {
@@ -269454,28 +269454,28 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "f93e5be8f5414775a08ab858f9b18be3"
  },
  "UA-2026-11-11-016205-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "complete",
   "id": "1a16abf2c1114ac7a08f8bda67e60d28"
  },
  "UA-2026-11-11-016151-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "6fcf776b7d2b4e198568fe38b3bb1084"
  },
  "UA-2026-11-11-016077-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "c5f247c456f64a56bf0c415a6efcea29"
  },
  "UA-2026-11-11-015845-a": {
@@ -269496,28 +269496,28 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "10f09e3aad844cd39d432604e53f4caa"
  },
  "UA-2026-11-11-015714-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "bcdb501d584540619bf63fbade4d83a5"
  },
  "UA-2026-11-11-015600-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "cancelled",
   "id": "2c6381aa404141aaa5867688312eb9a3"
  },
  "UA-2026-11-11-015414-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "4475ed0af40f49c986f4e592fc584d4e"
  },
  "UA-2026-11-11-015397-a": {
@@ -269552,7 +269552,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "05e7ff9e41ef45dabbb4709b79438e76"
  },
  "UA-2026-11-11-015003-a": {
@@ -269573,21 +269573,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "4ef8748e96cf4bad806f7713e3652878"
  },
  "UA-2026-11-11-014756-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "f3e08bcdb93840e2adade76fa97d922c"
  },
  "UA-2026-11-11-014693-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "6f45cf91fa83484dac328d336048223f"
  },
  "UA-2026-11-11-014688-a": {
@@ -269601,35 +269601,35 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "050b75b4344746729899553ef531b199"
  },
  "UA-2026-11-11-014615-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "43bbc6034f984434b3adeb089110adb2"
  },
  "UA-2026-11-11-014590-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "c641457ea93546aa8231f3d92dd1c22d"
  },
  "UA-2026-11-11-014507-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "f93b5a406e064126ba923ad2b2f1d3b4"
  },
  "UA-2026-11-11-014433-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "complete",
   "id": "0ffc08f0070346759523a90cdba4e338"
  },
  "UA-2026-11-11-014389-a": {
@@ -269643,35 +269643,35 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "1b4184f84aad4cd18576774bac0f0e28"
  },
  "UA-2026-11-11-013938-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "caf7c88ee0604322ab46fc34608b3b27"
  },
  "UA-2026-11-11-013910-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "f01caf5c5b314013b605ba5f9c9b1ac1"
  },
  "UA-2026-11-11-013800-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "892f72ca1b1e4cf79b707b07a53c84df"
  },
  "UA-2026-11-11-013549-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "ba081776afe54046a2996b38340d7eeb"
  },
  "UA-2026-11-11-013387-a": {
@@ -269685,42 +269685,42 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "4cd1d3a07b774bdca90b6967317c7ef8"
  },
  "UA-2026-11-11-013213-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "586d3322656e4894a149bfe54d502f0e"
  },
  "UA-2026-11-11-013190-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "498b6ea8b70c4c00be8c09b46f707b54"
  },
  "UA-2026-11-11-013077-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "e1706299af62451d9138d201f3e4cc0d"
  },
  "UA-2026-11-11-013057-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "6970c29b3d6443168e4e87532583c28d"
  },
  "UA-2026-11-11-012823-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "2510386e87c74324b5a7e78e607ad9a1"
  },
  "UA-2026-11-11-012805-a": {
@@ -269734,147 +269734,147 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "8480d70175874d50a9d50513cbc2e567"
  },
  "UA-2026-11-11-012717-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "5a0b8e6c17a04c1a8e7e8173255bebb2"
  },
  "UA-2026-11-11-012634-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "28bef59993e841f588ebe357588461d8"
  },
  "UA-2026-11-11-012576-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "10bff488b88c426093636b8a8f5cff21"
  },
  "UA-2026-11-11-012494-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "28d1424efc4745359303d0822e7b81ff"
  },
  "UA-2026-11-11-012239-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "cancelled",
   "id": "80f9f36ad036432087604bb1a85a8b64"
  },
  "UA-2026-11-11-012217-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "80318272c24f4576bec4a0863b4f71a0"
  },
  "UA-2026-11-11-012116-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "c4c05095144b4a03aaf1e29d96f8f45a"
  },
  "UA-2026-11-11-011967-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "9ddb4da4c858426b9b7681a1cb6198eb"
  },
  "UA-2026-11-11-011786-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "d33b6c2bdc1d408c908d033f21be6d27"
  },
  "UA-2026-11-11-011706-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "90a321453ad942758dd356b30673ebc0"
  },
  "UA-2026-11-11-011679-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "76bcc150058b4649baa5060e52eabb3d"
  },
  "UA-2026-11-11-011552-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "5d7b45167d3c478185378ab708805092"
  },
  "UA-2026-11-11-011546-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "6812b6b3ace54cab805eba73f9703529"
  },
  "UA-2026-11-11-011462-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "38fdab202e324cabaa5eb94759dc0456"
  },
  "UA-2026-11-11-011428-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "631475e4831f493c8fd66b465ba883c2"
  },
  "UA-2026-11-11-011381-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "6c36f8c1db934b0e83db3f68939179f1"
  },
  "UA-2026-11-11-011333-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "32c00e7f75d94c519a355a9d576b5c93"
  },
  "UA-2026-11-11-011025-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "273d7950a2eb4be1b1f6bcf597a76aa5"
  },
  "UA-2026-11-11-010720-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "6c4308bb5ead41478e57a80a4b2b9720"
  },
  "UA-2026-11-11-010669-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "ead7655bd80a40b3ad365e278173d57e"
  },
  "UA-2026-11-11-010431-a": {
@@ -269888,49 +269888,49 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "6e99de8cc69f4872ace7477db1060609"
  },
  "UA-2026-11-11-010192-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "c444d2e30d32431aa1a15f21ab96892f"
  },
  "UA-2026-11-11-010098-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "63d02eb6a6d4469c83079f5791d53b40"
  },
  "UA-2026-11-11-009964-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "86745a4baf4f4a5c8cc649a6171e387e"
  },
  "UA-2026-11-11-009933-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "8340ec6109764e73a5abbcbc9cac510e"
  },
  "UA-2026-11-11-009887-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "f6bc51f7edf5420bae268fcf23050962"
  },
  "UA-2026-11-11-009872-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "3aef9db83c8848078a2e4decaa7cf5a0"
  },
  "UA-2026-11-11-009840-a": {
@@ -269944,7 +269944,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "3ec8d34c0a574a7eb8977caa321f7d6e"
  },
  "UA-2026-11-11-009186-a": {
@@ -269958,56 +269958,56 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "8cbc85c2af204469970dfbdf712eb1e9"
  },
  "UA-2026-11-11-009127-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "ff2ebedfe92843519f6a9bf9a144f0b2"
  },
  "UA-2026-11-11-008920-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "2e99f949d4fb4f578ef92b9e68414666"
  },
  "UA-2026-11-11-008852-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "cancelled",
   "id": "60bf13aa0f4b484c85dc014bec07d0e6"
  },
  "UA-2026-11-11-008806-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "2cedf0e34b974aab921775d29fa24d98"
  },
  "UA-2026-11-11-008783-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "9c9a051566f542d58c08fbe86f2cf99b"
  },
  "UA-2026-11-11-008754-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "ceb0bec874c54a5cb6ac7106d8e32118"
  },
  "UA-2026-11-11-008752-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "14b4e639baea473dbe405df51bc0ff46"
  },
  "UA-2026-11-11-008676-a": {
@@ -270021,14 +270021,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "807c97b2fba144678a51b0bfa23d20fa"
  },
  "UA-2026-11-11-008530-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "05cf16dac0964ec4b8d6566de7787ddf"
  },
  "UA-2026-11-11-008518-a": {
@@ -270042,21 +270042,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "34095e743f5847928b6ceed0b668d8af"
  },
  "UA-2026-11-11-007969-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "43bb888ae7f844239a6ede118a32b883"
  },
  "UA-2026-11-11-007898-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "564fa075378a4805a980d6d5593c6437"
  },
  "UA-2026-11-11-007626-a": {
@@ -270070,49 +270070,49 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "6a8506903d45490ca6c37010630a4fcf"
  },
  "UA-2026-11-11-006765-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "5fbfca45fe3b4b16877e8cca01506e99"
  },
  "UA-2026-11-11-006632-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "887a97dd129944638a9bf7895cf9e504"
  },
  "UA-2026-11-11-006434-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "0b118d4c61634691be1c51e0aecc8489"
  },
  "UA-2026-11-11-006416-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "e9226d810a30405891bc0f2faa838fc8"
  },
  "UA-2026-11-11-006344-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "623f8269efaf4ef990e8218bb9897de2"
  },
  "UA-2026-11-11-006311-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "0949644edf4c4936947b496680f82a0e"
  },
  "UA-2026-11-11-005977-a": {
@@ -270126,28 +270126,28 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "19d1c0f750e246fe86226636200bb67a"
  },
  "UA-2026-11-11-005851-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "aff562a33a884bfe8cc381e9f018fc5a"
  },
  "UA-2026-11-11-005523-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "759fc72d468b44ff96746c898f0217c2"
  },
  "UA-2026-11-11-005245-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "d2533c4c07ad47a58e0ae7c09078cf73"
  },
  "UA-2026-11-11-005163-a": {
@@ -270161,14 +270161,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "6ac89ef699e0486d8265c7544fef2742"
  },
  "UA-2026-11-11-005104-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "e44833b97bcb49e985b300fcd59a6456"
  },
  "UA-2026-11-11-005075-a": {
@@ -270182,133 +270182,133 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "69192eb65a4749f48d039e9c897dff56"
  },
  "UA-2026-11-11-004740-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "e5167536290b451a96f89daf6b89e31f"
  },
  "UA-2026-11-11-004722-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "b24369aa75ec455ab1999b9cdd1d59d6"
  },
  "UA-2026-11-11-004560-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "6d03ee01613241019901115fdc6d89e3"
  },
  "UA-2026-11-11-004513-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "a7ebedff16634228becc334363195fa8"
  },
  "UA-2026-11-11-004160-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "af6bf8b2580745738be17f76bb690728"
  },
  "UA-2026-11-11-004093-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "afff6b8500074f5ca916f840a7f16b8e"
  },
  "UA-2026-11-11-004008-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "33c9c0d85b544c38b54c89585e6a6465"
  },
  "UA-2026-11-11-003985-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "00b4560955194e11a59ca07deeb95472"
  },
  "UA-2026-11-11-003943-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "059065c2d11942cc9dcf28b944234d16"
  },
  "UA-2026-11-11-003878-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "39d7ac79590b49a0a3f117aa15efe614"
  },
  "UA-2026-11-11-003525-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "7912d9bc2c9c4fe9a67840da09dddaef"
  },
  "UA-2026-11-11-003466-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "b46dc922894a480794e40bc093a02961"
  },
  "UA-2026-11-11-003202-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "6cccc431ed40499fbc55d5f203b749da"
  },
  "UA-2026-11-11-003096-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "5206c0c7f0d7430e8bbec9a0b5ff7cda"
  },
  "UA-2026-11-11-002915-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "f7393eba600441a2aeb8cfa8f2d2bc8e"
  },
  "UA-2026-11-11-002644-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "628084a1f7244c77921b56623c35d0e7"
  },
  "UA-2026-11-11-002210-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "93c1c04001cd4ee7894af56653566472"
  },
  "UA-2026-11-11-002009-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "2b275d289d834fe9aea2b86dcaac6167"
  },
  "UA-2026-11-11-001964-a": {
@@ -270329,21 +270329,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "95c0109d677e43f39a859a0eb89eeee3"
  },
  "UA-2026-11-11-001276-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "96de864ca3f349be93859a6a22e57504"
  },
  "UA-2026-11-11-001212-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "2efcdfaa5580444d88bc102e742445e6"
  },
  "UA-2026-11-11-001142-a": {
@@ -270357,14 +270357,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "a3864ffe0dfd4e7d94f7dd264eecb501"
  },
  "UA-2026-11-11-000570-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "8af735019ede4b08a6e3d0f2345e9661"
  },
  "UA-2026-11-11-000561-a": {
@@ -270378,7 +270378,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "c387dc3273a848758f99c27001072583"
  },
  "UA-2026-11-11-000407-a": {
@@ -270399,49 +270399,49 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "6b0e7207a7154825b64fe7ed834f163a"
  },
  "UA-2026-11-10-017097-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "98c3f01c713c42dd9a3bd1e05798221d"
  },
  "UA-2026-11-10-017076-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "d3833454f9fb432d8e09910e2f91108c"
  },
  "UA-2026-11-10-017035-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "5337c26a937146d6bd1f77108bde9677"
  },
  "UA-2026-11-10-016974-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "9b3eddbee2294d32a122a3e3118e9d6e"
  },
  "UA-2026-11-10-016891-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "complete",
   "id": "57861c1939e04a4cb95434bdd038e5e3"
  },
  "UA-2026-11-10-016694-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "3cf9e48c32f141e4a1c2ed87a32fe65f"
  },
  "UA-2026-11-10-016553-a": {
@@ -270455,7 +270455,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "complete",
   "id": "449d651068e743f2b8eb8dcc1b4d9b70"
  },
  "UA-2026-11-10-016326-a": {
@@ -270469,7 +270469,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "cd72b2c7bbe643cab90e32313ca0a28d"
  },
  "UA-2026-11-10-016088-a": {
@@ -270497,35 +270497,35 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "cancelled",
   "id": "29115f6f96dc4417870a303e46d8a848"
  },
  "UA-2026-11-10-015805-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "489487e1ea024836a36e2b62861c96a1"
  },
  "UA-2026-11-10-015798-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "1ea9ab7262c3498597ef554b875af382"
  },
  "UA-2026-11-10-015726-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "23765d42dc3d4edfae0d221adcbab599"
  },
  "UA-2026-11-10-015674-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "2173d8fb8eb64520a7f972c5cfa5b6e6"
  },
  "UA-2026-11-10-015585-a": {
@@ -270539,42 +270539,42 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "e98d5b2efedf425c95035e2fd5873b5a"
  },
  "UA-2026-11-10-015508-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "fc3f6fed2af4465e836f44077af86f95"
  },
  "UA-2026-11-10-015387-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "18e3ef2e6a414e2facc5bc3fa707b313"
  },
  "UA-2026-11-10-015242-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "4863b8609dfa446ebd109414947486ec"
  },
  "UA-2026-11-10-015118-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "3751d0c8c433435e902aa4c8562366e1"
  },
  "UA-2026-11-10-014778-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "ca46efc29bf245319d4fe75467196f9e"
  },
  "UA-2026-11-10-014744-a": {
@@ -270588,21 +270588,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "complete",
   "id": "b689ae1f372e4cc9ac4b08366760cc40"
  },
  "UA-2026-11-10-014651-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "d93c245f8a55498582f0b5118a28ce02"
  },
  "UA-2026-11-10-014357-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "86066f3d8a284f2daa61eb5e785e122b"
  },
  "UA-2026-11-10-014224-a": {
@@ -270623,7 +270623,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "complete",
   "id": "d3dd9aa8c9e24adc837da51a89965b01"
  },
  "UA-2026-11-10-014021-a": {
@@ -270637,14 +270637,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "cancelled",
   "id": "e32bfec7585749c48e14e3790143c546"
  },
  "UA-2026-11-10-013325-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "d78c88f5f15a4710b3fff83e5b0bdd89"
  },
  "UA-2026-11-10-013223-a": {
@@ -270658,21 +270658,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "55854d15a1cf4ac7be8084a70071c320"
  },
  "UA-2026-11-10-013099-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "e0809d14dc2943b09036774f3d648c63"
  },
  "UA-2026-11-10-012972-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "c3842e2e9ec04988bb16fe10a3831993"
  },
  "UA-2026-11-10-012590-a": {
@@ -270686,7 +270686,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "0714f2d692ac48bba54b18af0aaa6b72"
  },
  "UA-2026-11-10-012281-a": {
@@ -270707,28 +270707,28 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "cf767fa25ab14022864608b762281d1f"
  },
  "UA-2026-11-10-011706-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "160c341aed85463fa7901f45c549438c"
  },
  "UA-2026-11-10-011628-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "complete",
   "id": "5f295164e63e401e815c2e1239a93330"
  },
  "UA-2026-11-10-011487-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "20a9d4db4cc6452eb2e12cad812ac0c4"
  },
  "UA-2026-11-10-011395-a": {
@@ -270749,21 +270749,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "744e6a0a224d4d018890e8ba886c4fa4"
  },
  "UA-2026-11-10-011057-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "746d25b39769450c85a336739925e82e"
  },
  "UA-2026-11-10-010864-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "e785a27a65fa4457b40198d116a62c22"
  },
  "UA-2026-11-10-010795-a": {
@@ -270777,21 +270777,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "43dc8869f1104157b0a964995daa5b09"
  },
  "UA-2026-11-10-010749-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "90f9780a9de1414fb69b61736ea25cb9"
  },
  "UA-2026-11-10-010399-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "366ac7aaa43a4bd68deecce66e2ce2ba"
  },
  "UA-2026-11-10-010371-a": {
@@ -270805,21 +270805,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "42f5c66c8c51471dacef2e3f8a9537cf"
  },
  "UA-2026-11-10-009999-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "8d61d70fb0fd44c6985a910d5cccdd7f"
  },
  "UA-2026-11-10-009762-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "6cbeed93a2484abe80e9d38110369da9"
  },
  "UA-2026-11-10-009704-a": {
@@ -270833,7 +270833,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "4ad11e5d2e344806a781dd53a6a9c727"
  },
  "UA-2026-11-10-009525-a": {
@@ -270854,28 +270854,28 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "7242eb07202347e1aa96ad705c3d1425"
  },
  "UA-2026-11-10-009359-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "ae45d38a39994cb48dca042b507ee465"
  },
  "UA-2026-11-10-009231-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "63781b1e39b1477088007d9b7cc5be24"
  },
  "UA-2026-11-10-009037-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "7c070b1c37e342debb8d1036fcaf1629"
  },
  "UA-2026-11-10-008869-a": {
@@ -270889,28 +270889,28 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "03d959220c9d4157a451f318b5419532"
  },
  "UA-2026-11-10-008656-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "a7ba7464ef8e48c2af015acac4bac5a2"
  },
  "UA-2026-11-10-008523-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "e596d11543704760805033e47ac97243"
  },
  "UA-2026-11-10-008480-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "450ce1dce1104857ad35387c48e994ce"
  },
  "UA-2026-11-10-008443-a": {
@@ -270924,21 +270924,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "e2bb4fa542b942cc9ab6e3ba655c443e"
  },
  "UA-2026-11-10-008007-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "da582a2731f844739e7ebd24128e77e8"
  },
  "UA-2026-11-10-007970-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "55b7e2f550f444169270cd5bf889db31"
  },
  "UA-2026-11-10-007914-a": {
@@ -270952,14 +270952,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "a1dd0f26786144f6b2522d2cc0b40f28"
  },
  "UA-2026-11-10-007559-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "1cb7861080734cca8c680cc5d43f5891"
  },
  "UA-2026-11-10-007487-a": {
@@ -270973,7 +270973,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "acd19ca3fb8944fe965967d259251501"
  },
  "UA-2026-11-10-007258-a": {
@@ -270987,49 +270987,49 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "4a6523a285934b5b9e23acd8a8028626"
  },
  "UA-2026-11-10-007044-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "ba1a4bc079af4c78bfda10ec67382326"
  },
  "UA-2026-11-10-006958-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "3a7d65e293bc4920a930c0b05f5d385c"
  },
  "UA-2026-11-10-006895-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "47d5dae41ae54810b9ef05f1b8a7a44b"
  },
  "UA-2026-11-10-006805-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "952c5ebd4e1044eea70a1ce9a7dfdea8"
  },
  "UA-2026-11-10-006680-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "8a17b549bf5c46adb28f202fef9e9ce4"
  },
  "UA-2026-11-10-006586-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "a59a4ce6b16247978e3e51e10545a642"
  },
  "UA-2026-11-10-006357-a": {
@@ -271050,7 +271050,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "complete",
   "id": "3de2f3fdb5844a5590817f1ac3517fa1"
  },
  "UA-2026-11-10-006022-a": {
@@ -271064,77 +271064,77 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "2163ba9b7f0d4c85ad99580dd8b34260"
  },
  "UA-2026-11-10-005828-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "441253c298b44ec3b01b552e058ba449"
  },
  "UA-2026-11-10-005756-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "bdfe69d67a31404c95c3c43d4761ecd5"
  },
  "UA-2026-11-10-005701-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "ae516488151f481eb6725f4a80b09614"
  },
  "UA-2026-11-10-005083-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "81053058c6104528a29324b2432e0196"
  },
  "UA-2026-11-10-004598-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "6fde7dcadbf443028134ac46eb4c3f11"
  },
  "UA-2026-11-10-004499-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "3b71c28a06f54dff939178e22e39cd4c"
  },
  "UA-2026-11-10-004423-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "dee2d9b194ea40238cb69a57ab4d4daa"
  },
  "UA-2026-11-10-003785-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "9ccc3b10866c4f8586cf9131235399f0"
  },
  "UA-2026-11-10-003245-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "a46fcccde9f64cdb867293955eaaa43a"
  },
  "UA-2026-11-10-002988-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "be1398b26f60407483e1e53c0f923b6b"
  },
  "UA-2026-11-10-002961-a": {
@@ -271155,14 +271155,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "ddffb5d34ff94c01adb20719a622a44b"
  },
  "UA-2026-11-10-002312-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "4c4d4c07760c47a5a2fc0e34c497bfd8"
  },
  "UA-2026-11-10-002165-a": {
@@ -271176,14 +271176,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "428731eb98074e678cb64907b1027513"
  },
  "UA-2026-11-10-001812-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "fda7ce89d2fa4cb89c5e6f8002fd3b5e"
  },
  "UA-2026-11-10-001631-a": {
@@ -271197,21 +271197,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "c86ecccb7a29404c81ff7c86f63dedf2"
  },
  "UA-2026-11-10-001458-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "cc078e0c29d34ae09933fc790954edef"
  },
  "UA-2026-11-10-001211-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "complete",
   "id": "35bc02331983402a83992bf5759f0917"
  },
  "UA-2026-11-10-001124-a": {
@@ -271225,14 +271225,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "c5a159402caf469399ddee51594732c6"
  },
  "UA-2026-11-09-016449-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "90af6dca22964aea835528405760a1b8"
  },
  "UA-2026-11-09-016431-a": {
@@ -271246,7 +271246,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "910a6295a53343fa9e9cfb60d2156a76"
  },
  "UA-2026-11-09-015943-a": {
@@ -271260,7 +271260,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "cancelled",
   "id": "f07083da29f0481a919a8058fb1416dd"
  },
  "UA-2026-11-09-015746-a": {
@@ -271281,21 +271281,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "complete",
   "id": "f2e19ba9b27545ed9f78ffccfed59bf4"
  },
  "UA-2026-11-09-015645-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "1ad4964796914130b422f85581901427"
  },
  "UA-2026-11-09-015590-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "unsuccessful",
   "id": "9b7a53e1c85c41b094f62c33f803d059"
  },
  "UA-2026-11-09-015551-a": {
@@ -271309,14 +271309,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "862705fc62254df6bd44b19f09f08e8e"
  },
  "UA-2026-11-09-015502-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "22b2dd4eea734e6d988ea95c3562cdf3"
  },
  "UA-2026-11-09-015478-a": {
@@ -271337,21 +271337,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "complete",
   "id": "6217597b8ffe425bb925a5d077122cf6"
  },
  "UA-2026-11-09-015156-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "complete",
   "id": "45479624cb724c8bae8ea65ca2cec275"
  },
  "UA-2026-11-09-015123-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "complete",
   "id": "6cf5b1e54f2446b98334ad54f9016320"
  },
  "UA-2026-11-09-015091-a": {
@@ -271386,7 +271386,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "4be7dde4306c4aa3a32ce942a04b2cd0"
  },
  "UA-2026-11-09-014418-a": {
@@ -271400,7 +271400,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "complete",
   "id": "b85dc8da9c3b44209296413c895751a9"
  },
  "UA-2026-11-09-014349-a": {
@@ -271463,14 +271463,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "e3ae5ba23fa042579218cafc74552418"
  },
  "UA-2026-11-09-012895-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "64eb8aa49b1b4c24ac37dd0dcbdd9ad4"
  },
  "UA-2026-11-09-012595-a": {
@@ -271505,14 +271505,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "ba0956e0d29f492ca27f95414881c7eb"
  },
  "UA-2026-11-09-011767-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "cf3f079a3b114962b2704882e47fa832"
  },
  "UA-2026-11-09-011759-a": {
@@ -271526,28 +271526,28 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "754ed53ef22e423a9b5748419f33ef3f"
  },
  "UA-2026-11-09-011619-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "df8f3bd2317441dda6d00cb5e7686206"
  },
  "UA-2026-11-09-011559-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "e52e18be871f40d88b74c62005edecc0"
  },
  "UA-2026-11-09-011240-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "3a2c185f0c484191b9edeeaaef3980cb"
  },
  "UA-2026-11-09-011063-a": {
@@ -271582,7 +271582,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "7115aefdd54b4e879955693d0b3c1e83"
  },
  "UA-2026-11-09-010837-a": {
@@ -271596,7 +271596,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "99ecc3983d704123bffc3a5619a6b944"
  },
  "UA-2026-11-09-010773-a": {
@@ -271610,7 +271610,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "71d33f9812dc40e28b6674763e1b6edb"
  },
  "UA-2026-11-09-010687-a": {
@@ -271652,14 +271652,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.qualification",
   "id": "3079d3fb728e46278357ac6045f954d4"
  },
  "UA-2026-11-09-010170-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "0dc6a56d7d4b489ab3e7141a64973c0c"
  },
  "UA-2026-11-09-010008-a": {
@@ -271708,7 +271708,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "5ed6323605cc434eb7d7ba4e52bd8ee7"
  },
  "UA-2026-11-09-007888-a": {
@@ -271729,21 +271729,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "b1320006645e41d3893c16739e3842ff"
  },
  "UA-2026-11-09-007297-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "6a9d3fd24ca649b899ed606697241f1a"
  },
  "UA-2026-11-09-007049-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "efc195b642e340ed871e681455443450"
  },
  "UA-2026-11-09-006932-a": {
@@ -271757,14 +271757,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "complete",
   "id": "bc9f5925f38041ff85e54b3537ed6ed1"
  },
  "UA-2026-11-09-006190-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "52691592ed954bde859a6976ef3f655f"
  },
  "UA-2026-11-09-005138-a": {
@@ -271778,7 +271778,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "7bd0989aaf8f49398f3b9b12f024c872"
  },
  "UA-2026-11-09-004562-a": {
@@ -271792,42 +271792,42 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "3aa6da0a48ed41138d51f5c44544e81e"
  },
  "UA-2026-11-09-004164-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "de88553079c341a5a87a0061b6ee0e63"
  },
  "UA-2026-11-09-003937-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "complete",
   "id": "6229fb50584c477d83f6295126a98577"
  },
  "UA-2026-11-09-003881-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "84181ecf421e4384a9ff01c1013fd976"
  },
  "UA-2026-11-09-003605-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "unsuccessful",
   "id": "7d470154906d4e90a3ec681c9a1b8c08"
  },
  "UA-2026-11-09-003461-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "2e3665d7690a4bcea448474b9a8f5ab8"
  },
  "UA-2026-11-09-003425-a": {
@@ -271841,7 +271841,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "abbb3ba1aa754df0adf17bc96476cf56"
  },
  "UA-2026-11-09-003348-a": {
@@ -271855,14 +271855,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "b819986d2f2546418dad20a8ecefd61e"
  },
  "UA-2026-11-09-002466-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "ca42e10d8c5441d5a54d8d4d92bfa2b1"
  },
  "UA-2026-11-09-001453-a": {
@@ -271897,21 +271897,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "cancelled",
   "id": "000e96fd66ad493fbcdd6981fce04b70"
  },
  "UA-2026-11-09-000429-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "cf7600820319498faff3cd0b50e356a2"
  },
  "UA-2026-11-08-001740-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "716c99ff88b6403cb1ca3184f8b3bcf4"
  },
  "UA-2026-11-08-001624-a": {
@@ -271953,7 +271953,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "c97e609842d748e9bc435cfbe57a4197"
  },
  "UA-2026-11-06-015028-a": {
@@ -271981,7 +271981,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "2416d6a54d7645948ee02b02202694a4"
  },
  "UA-2026-11-06-014166-a": {
@@ -271995,14 +271995,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "ca506200f245491db86cad0b41b4533e"
  },
  "UA-2026-11-06-013820-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "5f4d6b5b103c469ca6cde0b2b9e671c5"
  },
  "UA-2026-11-06-013775-a": {
@@ -272030,21 +272030,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "e6a745657fc5470ab0d6997623d3297f"
  },
  "UA-2026-11-06-013386-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "7ffaba6b196c44d88e18245247b6514c"
  },
  "UA-2026-11-06-013268-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "cancelled",
   "id": "8dbda94fa7514b74a5269631ce3dcf19"
  },
  "UA-2026-11-06-013224-a": {
@@ -272065,14 +272065,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "946ac06d4ed4467fbcab7a9916c790b6"
  },
  "UA-2026-11-06-012888-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "cef0342a84e147cd8b3029cd01e66cad"
  },
  "UA-2026-11-06-012441-a": {
@@ -272142,7 +272142,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "cancelled",
   "id": "0bbadcf433a443adbc24ca56d3251490"
  },
  "UA-2026-11-06-011051-a": {
@@ -272205,21 +272205,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "de851756cf054c48b765b53ea5441f1e"
  },
  "UA-2026-11-06-008942-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "d259d0a23316476f9ffb69fbd3556416"
  },
  "UA-2026-11-06-008863-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "complete",
   "id": "8afec94744c44797aba50621749be21d"
  },
  "UA-2026-11-06-008858-a": {
@@ -272247,21 +272247,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "20ff0cb255ce4f9dac1d7ebae3a1c3d8"
  },
  "UA-2026-11-06-008475-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "d603f54dc6b6476aa5b4fb3de971d750"
  },
  "UA-2026-11-06-008468-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "ea576dc2f59445998d7551e34b47f0aa"
  },
  "UA-2026-11-06-008160-a": {
@@ -272282,7 +272282,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "unsuccessful",
   "id": "de006cd8d8be4c9f91fe71ec0f375ff8"
  },
  "UA-2026-11-06-007851-a": {
@@ -272317,7 +272317,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "888d3d64aedb492e9f7ccac45cbe09ae"
  },
  "UA-2026-11-06-007037-a": {
@@ -272345,14 +272345,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "unsuccessful",
   "id": "712103832a674305803a5dee11b39c3a"
  },
  "UA-2026-11-06-006500-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "8b1dd8df21374527b95a601572ddbda0"
  },
  "UA-2026-11-06-006121-a": {
@@ -272387,7 +272387,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "2a2acd318ec2463db605f86d8d2d487a"
  },
  "UA-2026-11-06-005435-a": {
@@ -272408,7 +272408,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "87d0efefef42447d934878d4d90816d3"
  },
  "UA-2026-11-06-004341-a": {
@@ -272429,21 +272429,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "4d4db3242d5147f2a9a1797223ca612d"
  },
  "UA-2026-11-06-004240-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "4c8a52a8a4b247d29968af40d8fd66ea"
  },
  "UA-2026-11-06-004047-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "66c23f97691b4ecd876026807e92a2ef"
  },
  "UA-2026-11-06-003990-a": {
@@ -272464,7 +272464,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "unsuccessful",
   "id": "4bc8b7ae549d48ce9e62811a7f631da3"
  },
  "UA-2026-11-06-003732-a": {
@@ -272492,28 +272492,28 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "complete",
   "id": "afbf9d9e33ed42299225740d691d2ee3"
  },
  "UA-2026-11-06-002679-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "cancelled",
   "id": "9aad8ae8473d433a99d8c8e1fbee253d"
  },
  "UA-2026-11-06-002671-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "8268a279804a44d2ae4d956789d87884"
  },
  "UA-2026-11-06-002362-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "8d8c123e699a44e2899ef0e59c65c8ea"
  },
  "UA-2026-11-06-001785-a": {
@@ -272548,7 +272548,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "unsuccessful",
   "id": "3c1b04d48faa40cfa6223153d2f9c1fd"
  },
  "UA-2026-11-05-016700-a": {
@@ -272583,7 +272583,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "55c747ac896c4d1e91571f67e91d9d0c"
  },
  "UA-2026-11-05-015339-a": {
@@ -272597,7 +272597,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "087ac9751f1f4bfeaeb1bc1b71dab5ff"
  },
  "UA-2026-11-05-015242-a": {
@@ -272618,7 +272618,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "0a40dddb0b9447b3898368bfb4edd8b4"
  },
  "UA-2026-11-05-014893-a": {
@@ -272646,7 +272646,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "f058041de2624d9e95050b9c9f34dab1"
  },
  "UA-2026-11-05-013468-a": {
@@ -272674,21 +272674,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "9a3fbad464ea402288f6b3958828356c"
  },
  "UA-2026-11-05-013116-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "ee7d08599efa44aba34111002ca1ba3c"
  },
  "UA-2026-11-05-012974-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "27e8b894414c4e7eaef7a1a39a64d0f1"
  },
  "UA-2026-11-05-012925-a": {
@@ -272702,14 +272702,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "f488a7de3cc8465887d3aca2f735820e"
  },
  "UA-2026-11-05-012763-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "463cad6e7869495a8f7f7103c2b91084"
  },
  "UA-2026-11-05-012647-a": {
@@ -272751,14 +272751,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "69fdc7a98afe45c087ccfeecdd3fa5e4"
  },
  "UA-2026-11-05-010548-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "811196da67d745b6a3aa5bd78c425687"
  },
  "UA-2026-11-05-010403-a": {
@@ -272800,7 +272800,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "b05e963912424614b5c63afcac8d7ee2"
  },
  "UA-2026-11-05-009074-a": {
@@ -272821,7 +272821,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "e84bb41154b143fd84bdec9a19649607"
  },
  "UA-2026-11-05-008273-a": {
@@ -272835,7 +272835,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "2cf84221574d4c65a1e3b26d480c6cbc"
  },
  "UA-2026-11-05-007969-a": {
@@ -272849,7 +272849,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "71ee7b4230a4456fa21cd4598bb69ea8"
  },
  "UA-2026-11-05-007792-a": {
@@ -272863,7 +272863,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "d5423afefefc4f3f9d3f205f2aea0e42"
  },
  "UA-2026-11-05-007282-a": {
@@ -272877,7 +272877,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "90769012350a44f7a43e80ebdf73323e"
  },
  "UA-2026-11-05-007238-a": {
@@ -272891,21 +272891,21 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "db6894fcd56e4ecd8dc45e34da9946ae"
  },
  "UA-2026-11-05-007147-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "3dddcf98f9d941ecb1c6afce9e10d5f3"
  },
  "UA-2026-11-05-006843-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "f5bcf0bfbf344be39a73cf510a6962b6"
  },
  "UA-2026-11-05-006633-a": {
@@ -272919,7 +272919,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "d4e68554f9504011a6744fa82905c1dd"
  },
  "UA-2026-11-05-006031-a": {
@@ -272933,7 +272933,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "262cb748af39463a97b4d35e1444c414"
  },
  "UA-2026-11-05-005678-a": {
@@ -272961,7 +272961,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "f2136fa73a2d4916abcc297ddaf05e2b"
  },
  "UA-2026-11-05-004733-a": {
@@ -272982,14 +272982,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "f07c6607ce4c4ff1903928e594c39d07"
  },
  "UA-2026-11-05-003893-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "unsuccessful",
   "id": "e6ceac1bcc824ee090a4039771e917dd"
  },
  "UA-2026-11-05-003257-a": {
@@ -273003,7 +273003,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "5808d8de773b461a852dcaf33f9c66d2"
  },
  "UA-2026-11-05-001881-a": {
@@ -273031,7 +273031,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "a90dc7c9b74449389c22b003862d2240"
  },
  "UA-2026-11-05-000557-a": {
@@ -273059,7 +273059,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "7e125329818847ee8dee74f553b0b8aa"
  },
  "UA-2026-11-04-015086-a": {
@@ -273101,7 +273101,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "cancelled",
   "id": "9a0123e8778445ed86c9c1372a7c573f"
  },
  "UA-2026-11-04-013794-a": {
@@ -273220,7 +273220,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "fbcc1d62ff074eb28ab41549b7a3619a"
  },
  "UA-2026-11-04-009175-a": {
@@ -273248,7 +273248,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "a9953644555842ccbd2686b37270bb2c"
  },
  "UA-2026-11-04-008694-a": {
@@ -273269,7 +273269,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "74afeef0958c408bb8dcb79cf4e770ee"
  },
  "UA-2026-11-04-008250-a": {
@@ -273283,7 +273283,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "64633c17fb5546669d3d902d8a2c6580"
  },
  "UA-2026-11-04-008126-a": {
@@ -273360,7 +273360,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "3e37e738c1ca493daa50b3a520115661"
  },
  "UA-2026-11-04-005823-a": {
@@ -273381,7 +273381,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "09213969b7d04206af770f03f3637b80"
  },
  "UA-2026-11-04-004405-a": {
@@ -273437,7 +273437,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "8b1e2c9bed554fa5a2f1f247cbc0e418"
  },
  "UA-2026-11-04-001636-a": {
@@ -273458,7 +273458,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "6fa0c01280424ab3b35b1c4ee7bace56"
  },
  "UA-2026-11-04-001125-a": {
@@ -273479,7 +273479,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.qualification",
+  "status": "active.awarded",
   "id": "68a3823d90394787b2dbae252ba4e4ee"
  },
  "UA-2026-11-04-000784-a": {
@@ -273528,14 +273528,14 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "ada46feef06f46d0afaadf7639acdf82"
  },
  "UA-2026-11-03-014944-a": {
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "5ca9a7f545534424894b00f5488ce009"
  },
  "UA-2026-11-03-014942-a": {
@@ -273577,7 +273577,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "65a16cfe0dfd48ebbdf1bb12990e678c"
  },
  "UA-2026-11-03-013514-a": {
@@ -273640,7 +273640,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "2df75774c4654359937a925aa8c6f858"
  },
  "UA-2026-11-03-010647-a": {
@@ -273682,7 +273682,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "96fe62aa70fb475ba17278f5a95181c7"
  },
  "UA-2026-11-03-009752-a": {
@@ -273696,7 +273696,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "1a685a0e2c72498b9a7fffdc84d1bb89"
  },
  "UA-2026-11-03-008781-a": {
@@ -273773,7 +273773,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "893c2cf989084d52916d443bce97e4d0"
  },
  "UA-2026-11-03-005946-a": {
@@ -273822,7 +273822,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "d7281f0e746b4e5c8f799f4fc9123645"
  },
  "UA-2026-11-03-004704-a": {
@@ -273836,7 +273836,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "2093ab8eed45473d89bb9ce731da40f2"
  },
  "UA-2026-11-03-004288-a": {
@@ -273913,7 +273913,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "active.qualification",
   "id": "7cb5dab682a44a769446f761bdec6c35"
  },
  "UA-2026-11-03-001896-a": {
@@ -273976,7 +273976,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.tendering",
+  "status": "active.awarded",
   "id": "ac2d04dfdddb4b72af8ace8cad94c9cd"
  },
  "UA-2026-11-02-013845-a": {
@@ -274004,7 +274004,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "98e47ea67f494ca4a76424ea356ba8fe"
  },
  "UA-2026-11-02-013040-a": {
@@ -274207,7 +274207,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "cf920e2f3bb04762a1936b659a7cfd2b"
  },
  "UA-2026-11-02-009345-a": {
@@ -274270,7 +274270,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "f80c5ca497a1451ba4248379c3e87ccb"
  },
  "UA-2026-11-02-007258-a": {
@@ -274403,7 +274403,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "93b848eba9124f81b03c6026a26123f9"
  },
  "UA-2026-11-02-000459-a": {
@@ -274417,7 +274417,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "1e95a24650e940489d1e7fd2557154c9"
  },
  "UA-2026-11-01-000521-a": {
@@ -274431,7 +274431,7 @@
   "found_by": [
    "cpv"
   ],
-  "status": "active.awarded",
+  "status": "complete",
   "id": "ffe9b42717254a56966ab953daf8c487"
  },
  "UA-2026-11-01-000361-a": {
@@ -274447,5 +274447,2535 @@
   ],
   "status": "unsuccessful",
   "id": "54c060c3afb24bcf88b9f6a381b348c8"
+ },
+ "UA-2026-11-16-017234-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "be9478b01a2c4c7d9c4b01e483c9b09c"
+ },
+ "UA-2026-11-16-017218-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "59c66c24e5314d0cae697d0a16a34482"
+ },
+ "UA-2026-11-16-017111-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "331882cc066c4822ae5aabe4621de349"
+ },
+ "UA-2026-11-16-017006-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "c2514e073412484993b0df600ffec08b"
+ },
+ "UA-2026-11-16-016999-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "0afc90a2300542f1861552757fb64e79"
+ },
+ "UA-2026-11-16-016625-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "0963afc0201a4999ad3a3f9c22ee5e1d"
+ },
+ "UA-2026-11-16-016515-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "9a073929693a438d825283113de933f0"
+ },
+ "UA-2026-11-16-016395-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "cc94c6b1d4404395b99a4f64f1882fed"
+ },
+ "UA-2026-11-16-016324-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "5c26a323a53944e797407fb39bdeac6c"
+ },
+ "UA-2026-11-16-016196-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "8e9b0bf3ecf747668ae89a0c1724f725"
+ },
+ "UA-2026-11-16-016152-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b25678d04c484df8899bbf486048c235"
+ },
+ "UA-2026-11-16-016111-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "78fdc49b9fe54e3ebe3515aa35628712"
+ },
+ "UA-2026-11-16-016087-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "8f0aed2e094f4abea81d7be1f304795c"
+ },
+ "UA-2026-11-16-015814-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "66f6750b029140a7a3287e0396999b4b"
+ },
+ "UA-2026-11-16-015661-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "6cf69ade9c034346987fb5a84c61ceaf"
+ },
+ "UA-2026-11-16-015539-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "84d309bb1cab4bb1b2c7619b22ea8be3"
+ },
+ "UA-2026-11-16-015472-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "d8157cddbade4ca28732d468e03b0952"
+ },
+ "UA-2026-11-16-015439-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "12e0c4a2c6bd45ce81a077b1737eeb82"
+ },
+ "UA-2026-11-16-015270-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "19496dec14d14561bf4116a36f4ffe91"
+ },
+ "UA-2026-11-16-014925-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "3f2032b9ba294446a8c1aac82551c98f"
+ },
+ "UA-2026-11-16-014857-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "fc3fa75a26044876a20a4de050893e75"
+ },
+ "UA-2026-11-16-014607-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b7bf7549e6df4678a19543c8bbd900d6"
+ },
+ "UA-2026-11-16-014571-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "d7f38b0281204b7681dda12cbd12bd3f"
+ },
+ "UA-2026-11-16-014166-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "4a3c80bb3ce14408b94ba8ac3e7601f9"
+ },
+ "UA-2026-11-16-013850-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "db6cd4f635e7423a85010956221f0909"
+ },
+ "UA-2026-11-16-013814-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "421411ec13794051945cdd23d430d3d7"
+ },
+ "UA-2026-11-16-013777-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "d48c53fce4894f8aaeefff3fdad7ac0d"
+ },
+ "UA-2026-11-16-013687-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "281f98593c5c47988886dd402fad8fd7"
+ },
+ "UA-2026-11-16-013658-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "16ac005ab9e8461aa9c5b87eb880a86c"
+ },
+ "UA-2026-11-16-013563-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "be21cf7c14284782817a7c0a06db6c8b"
+ },
+ "UA-2026-11-16-013491-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "fc9e711d0db64ba3846f0f1a0aebbb6f"
+ },
+ "UA-2026-11-16-013470-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "e3bcf74b1f634b25b532aff708c38f0c"
+ },
+ "UA-2026-11-16-013461-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b2a1312142a6490c8184d89db5aa82dc"
+ },
+ "UA-2026-11-16-013452-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "e1985fb13bc54d988de55912085012de"
+ },
+ "UA-2026-11-16-013428-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b7bb3395ab754aa79bc351634a747cd6"
+ },
+ "UA-2026-11-16-013425-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "aab26cd58020428eb4b4d0095445ff32"
+ },
+ "UA-2026-11-16-013050-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "8364b926def0438ea17b4ddf393e6efa"
+ },
+ "UA-2026-11-16-012962-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "4a1f523f9efa40b98021f9927679854a"
+ },
+ "UA-2026-11-16-012955-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "16081674b2224cf6b05dc9ee5bdbbbe2"
+ },
+ "UA-2026-11-16-012779-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "8380d12ff8654063ab85ea616c583e3c"
+ },
+ "UA-2026-11-16-012778-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b5f3e0f9f7c14e958f6cb5c622858712"
+ },
+ "UA-2026-11-16-012698-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "6d7b0d9b56db4f92a6d04137ba957dc4"
+ },
+ "UA-2026-11-16-012604-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "14bd79acaa3341b497059d97f7e8662c"
+ },
+ "UA-2026-11-16-012299-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "7af17c8f2180413ea47e47410f551f41"
+ },
+ "UA-2026-11-16-012254-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "886970de156d47fdb7fd3e737dd0cc8c"
+ },
+ "UA-2026-11-16-012172-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "86f940cc992d467e9d5cc0a3d1cc8ea7"
+ },
+ "UA-2026-11-16-012149-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "a335c40bd93d44f8b9b3e588990c2026"
+ },
+ "UA-2026-11-16-012144-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "6404f113a642426eb8f0a1ac3b28c05b"
+ },
+ "UA-2026-11-16-012014-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b908b1ef5caa437589c38b7c9e07b09e"
+ },
+ "UA-2026-11-16-011919-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "10329a31af984690b125b3fee9d9ceb5"
+ },
+ "UA-2026-11-16-011847-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "9f98b3cc052a48859eb74764788ec694"
+ },
+ "UA-2026-11-16-011795-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "24f9e5fa60b84271939a606ecab39e8b"
+ },
+ "UA-2026-11-16-011618-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "82116b6642b048859b6b140c4b9b47dd"
+ },
+ "UA-2026-11-16-011611-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "fcdf01476f0e417e92d2c66ac77e9063"
+ },
+ "UA-2026-11-16-011594-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "1ebcaedca4e54be6baab21e9db3f20c7"
+ },
+ "UA-2026-11-16-011470-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "6fc3c6bea09f4356b21129ebe3ce3e3f"
+ },
+ "UA-2026-11-16-011318-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "0837a1c2185c4e5082f5975575ba9508"
+ },
+ "UA-2026-11-16-011269-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "18e7cd60eed042ce80d3e65f3b15b6ed"
+ },
+ "UA-2026-11-16-011058-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "d1616bda17924c17ae9919235632bd25"
+ },
+ "UA-2026-11-16-011039-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "f517b87581e04f49bf807d13c0ad022d"
+ },
+ "UA-2026-11-16-010759-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "c7316331eb644d798c514102ea83167f"
+ },
+ "UA-2026-11-16-010628-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "2a6d432d723c4bdfaf6889898ff27095"
+ },
+ "UA-2026-11-16-010494-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "71c52ad319744e8ca419cf20859bbd92"
+ },
+ "UA-2026-11-16-010468-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "08f07cf0e40d408bbf96e834d5527359"
+ },
+ "UA-2026-11-16-010418-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "79ee984de3b942aca58e196a64b1edf2"
+ },
+ "UA-2026-11-16-010202-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "703508343f90487fa10bacf2d1ed30b3"
+ },
+ "UA-2026-11-16-010198-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "2dce8bee18bc47309cb6a2b1f6d21b52"
+ },
+ "UA-2026-11-16-010114-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "fedd29e27a8540228f8db67060dbf8c0"
+ },
+ "UA-2026-11-16-009974-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "dd5388df084c4d7c9650961a726c1a5a"
+ },
+ "UA-2026-11-16-009682-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "67fdcd1b5ca04c2b92cd790883d58707"
+ },
+ "UA-2026-11-16-009666-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "2c066877ffbe4320bbf5056903215a18"
+ },
+ "UA-2026-11-16-009609-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "46b3ccec488f4b79b7240486af17565c"
+ },
+ "UA-2026-11-16-009593-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "3b504cc59d80438eb896fb3c242369a1"
+ },
+ "UA-2026-11-16-009511-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "d83d99f755b640e2aa39d8127b83ee47"
+ },
+ "UA-2026-11-16-009481-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "6fe2159d4ba84b0fa49309896e8366fd"
+ },
+ "UA-2026-11-16-009442-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "2af36cf72635452eb2210215e33f104d"
+ },
+ "UA-2026-11-16-009165-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-16-009024-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "2f9863d53a7e409eb7b6a437ff75e964"
+ },
+ "UA-2026-11-16-008598-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "7ce6197ce644442386243ef716326c83"
+ },
+ "UA-2026-11-16-008247-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "976cd00a343141f284d7bcd26bc540a6"
+ },
+ "UA-2026-11-16-008118-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "09a8c1066a9d45628aeddf4f6ddfd421"
+ },
+ "UA-2026-11-16-008063-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "76f6326a0e2d46778b006e352c023eb9"
+ },
+ "UA-2026-11-16-008016-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "271e8ff8d2f542039159cf0097200c3e"
+ },
+ "UA-2026-11-16-007729-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "7f303b8c93354244a6c962720de1cac2"
+ },
+ "UA-2026-11-16-007553-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "ed1b49aada73404591a262018ef35f59"
+ },
+ "UA-2026-11-16-007270-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "9846997800b74e5ba188add42671fa94"
+ },
+ "UA-2026-11-16-006805-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "f54aef3f8c5a4d3dbeb028d50aaeb387"
+ },
+ "UA-2026-11-16-006658-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "8ce76c92ab1244c297a6c2f3eadaaef0"
+ },
+ "UA-2026-11-16-006541-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "f54d57319e7e41d9973fcacc87f881cd"
+ },
+ "UA-2026-11-16-006411-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "d15781ec5ad649ec86a95d113c815088"
+ },
+ "UA-2026-11-16-006313-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b027103dce3e4584bcd80dc55ec05007"
+ },
+ "UA-2026-11-16-006069-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "de9033859fe444f2835f823cfed1dd38"
+ },
+ "UA-2026-11-16-006050-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "e1a89139d2ee402e9efa4c4bdee09890"
+ },
+ "UA-2026-11-16-006017-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "55ff6887512f41aba9e2afa70ffad329"
+ },
+ "UA-2026-11-16-005973-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "4dd9f6ac485e4da287a2503a809b8c35"
+ },
+ "UA-2026-11-16-005972-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "5bdd47ec62ac42f6970e6565028ffccc"
+ },
+ "UA-2026-11-16-005959-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "49f106ef938243199d0f4bce8b22be97"
+ },
+ "UA-2026-11-16-005927-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "90a890d990694ddfa89a2a3b3560eec1"
+ },
+ "UA-2026-11-16-005914-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "6a21f1109d0448f0bd554ece78945cc2"
+ },
+ "UA-2026-11-16-005531-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "cf0d88563f4640bd91e0a73454e7f24e"
+ },
+ "UA-2026-11-16-005467-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "c88dfffe1859481b95d9652ed48e84d2"
+ },
+ "UA-2026-11-16-005465-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "a6f88bab77974dc2bd3d2129541690f5"
+ },
+ "UA-2026-11-16-005384-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "624751d7138842929e22b0dcda064bf3"
+ },
+ "UA-2026-11-16-005165-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "99f2effd98d44dc3b6357b31393c1c0a"
+ },
+ "UA-2026-11-16-005013-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "296f32e02bd14c5b80597050ee1c0c36"
+ },
+ "UA-2026-11-16-005000-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "dd0063812d834bb9b528f8923d4c3f25"
+ },
+ "UA-2026-11-16-004782-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "18a4bb5af7ab4e589512586a1e13a131"
+ },
+ "UA-2026-11-16-004676-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "6dbe69f8f9904f12bbbef058d9169470"
+ },
+ "UA-2026-11-16-004651-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "2389d5d792c643b08e9d4b686359cc10"
+ },
+ "UA-2026-11-16-004521-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "e1de6b9a6e544c769bf7b8b8c182740c"
+ },
+ "UA-2026-11-16-004454-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "5ebccc7a41774d90bd4ac25bed780160"
+ },
+ "UA-2026-11-16-004326-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "3fb2a72746894e8f95b393da5cf3a25e"
+ },
+ "UA-2026-11-16-004280-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "8032ca76057245a98148ea9a26e9e9ac"
+ },
+ "UA-2026-11-16-004198-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "3d3d500ef09f40d7bad98dc16d7ddf90"
+ },
+ "UA-2026-11-16-004073-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "1ded33a3537a4eeb9aa97eb164375dce"
+ },
+ "UA-2026-11-16-004035-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "1b5c5689ae254818b90bad9fb00fa75d"
+ },
+ "UA-2026-11-16-003903-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "cb5db7359e3b4f43828120c231ecffeb"
+ },
+ "UA-2026-11-16-003763-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "e9f993c63fbe4b5e8a8d56bd7d56c63f"
+ },
+ "UA-2026-11-16-003693-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.enquiries",
+  "id": "e9c9808a446340b5996316ea0a48c7a2"
+ },
+ "UA-2026-11-16-003352-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "09f5c76868294798a5a847199c82df06"
+ },
+ "UA-2026-11-16-003296-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "fd69023bd2c9401199d4f57381f0c5c4"
+ },
+ "UA-2026-11-16-003228-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "a2daa2c8abff42deb36537b124bf9384"
+ },
+ "UA-2026-11-16-003217-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "1a6f0db53f9043f8bc724646363dc112"
+ },
+ "UA-2026-11-16-003179-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "76321da411374f3daae951ac2e842934"
+ },
+ "UA-2026-11-16-003158-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "453d291963924e9d95ddd55e62af2c9b"
+ },
+ "UA-2026-11-16-003094-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "faa063fc922a4645b5041e12b8229410"
+ },
+ "UA-2026-11-16-002787-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "fcbd2e6d781b4e06a3a80849fdedd1cc"
+ },
+ "UA-2026-11-16-002537-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "2a2f8a261bfa4e319a7b033bc8c5be63"
+ },
+ "UA-2026-11-16-002299-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-16-002067-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "010e69670ceb4c2b83f17ebd3092cff5"
+ },
+ "UA-2026-11-16-001971-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "fcacb7f25f594f6caf2c1081dd0c46d5"
+ },
+ "UA-2026-11-16-001889-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "c0d5cc16d17545848c1c8c511437cc64"
+ },
+ "UA-2026-11-16-001618-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "c5c8ff906eb7426795c855da824babea"
+ },
+ "UA-2026-11-16-001617-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "47d53345ba724c53acf609aa5835326b"
+ },
+ "UA-2026-11-16-001592-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "ab6ea1bc0b4c44b08f9e8226edb2ffbe"
+ },
+ "UA-2026-11-16-001359-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "7b401bae80e34463914e69248114d273"
+ },
+ "UA-2026-11-16-001173-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "c93913e578554961972ad12272fb143f"
+ },
+ "UA-2026-11-16-000777-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "909ee3d5dbee421bbebe4e7b335c973d"
+ },
+ "UA-2026-11-16-000689-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "76810a96a38d4132a31c8c75bfb22bd0"
+ },
+ "UA-2026-11-16-000614-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "0cc3ab661f314f72bb52cb0dfd15620e"
+ },
+ "UA-2026-11-16-000100-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "4bb6b09857c240a4a5971066afd44375"
+ },
+ "UA-2026-11-15-000894-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "8369fe902bbc4329a0b28f9984630284"
+ },
+ "UA-2026-11-15-000838-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "96bb3f003cbb4c81b8f5a1051940c2da"
+ },
+ "UA-2026-11-15-000630-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "c4a0e7dea15542629e6f85dfb9d794c4"
+ },
+ "UA-2026-11-15-000395-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "4b625c11163b441caa4df9a47779ad17"
+ },
+ "UA-2026-11-15-000344-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-15-000237-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "5922c7fe5ef744dc94e8e002ad4d26a5"
+ },
+ "UA-2026-11-14-000899-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "fae6afa405994a42b4bcc3ce88e78e26"
+ },
+ "UA-2026-11-14-000521-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "e01a01b996e142c68522fb0924b15de4"
+ },
+ "UA-2026-11-14-000501-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "4fe8b77e2db2484789336cbb84dcee3a"
+ },
+ "UA-2026-11-14-000437-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-14-000220-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "588d5d619e3849dd96082241d47f5a78"
+ },
+ "UA-2026-11-14-000132-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "986d8be34fb94e0eaf555d425b315d05"
+ },
+ "UA-2026-11-13-016305-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "7c638338cb56405eb70765c87edd53b6"
+ },
+ "UA-2026-11-13-016224-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "f0e487a0df084429979b34d214439efc"
+ },
+ "UA-2026-11-13-016197-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "a93a41959fe4478bbcd2a85c179b40ac"
+ },
+ "UA-2026-11-13-016047-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "0ea41926edd8449b81087df3626672c3"
+ },
+ "UA-2026-11-13-015949-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "8994d0fd06284813819cc74f6d7d63ae"
+ },
+ "UA-2026-11-13-015679-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "112c265eeb28491e90d316639ece860e"
+ },
+ "UA-2026-11-13-015648-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "3562433f9cb248e5bd0e69523525cf13"
+ },
+ "UA-2026-11-13-015561-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "acc46f16a4534f19ad911efee63d5f2c"
+ },
+ "UA-2026-11-13-015501-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "ada8c602c84f4615a42c07bdf2e2ae99"
+ },
+ "UA-2026-11-13-015457-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "06d97e3f754d4b4eb331114c5202fca6"
+ },
+ "UA-2026-11-13-015318-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "a0ada54b83144d72b016f298546b023a"
+ },
+ "UA-2026-11-13-015105-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "6cec8f5069f84e85a55426efb9960862"
+ },
+ "UA-2026-11-13-014960-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "7c0460f4ad004b78a6209bd830ea0142"
+ },
+ "UA-2026-11-13-014882-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "49a8c7687c484692b9046ac5305a1b5c"
+ },
+ "UA-2026-11-13-014866-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "643be31575d6466d9d8023bac70fc95e"
+ },
+ "UA-2026-11-13-014831-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "6f4e4e827df84254b27d6d472f7d48e3"
+ },
+ "UA-2026-11-13-014717-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "27f052aa4927452a8e64da445ea4acfe"
+ },
+ "UA-2026-11-13-014574-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b8e5a79f375943caa8265c5e762bd190"
+ },
+ "UA-2026-11-13-014481-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "d2835fec274c40ecbddc3dbf56dfa9ff"
+ },
+ "UA-2026-11-13-014373-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "092f1c2bbee6470a905ec84cef60bfb5"
+ },
+ "UA-2026-11-13-014166-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b6ec5127e6674ad8a0caa351b521a291"
+ },
+ "UA-2026-11-13-014158-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "ade39918242447a5a144a9533cc0a3b8"
+ },
+ "UA-2026-11-13-014152-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "cb3afe47e5794006acd7616f12048bf9"
+ },
+ "UA-2026-11-13-014043-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b9dbe95874ae4765bcb0736156e97e52"
+ },
+ "UA-2026-11-13-014020-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "565da687497f42cfad3af4e2b46ff9d3"
+ },
+ "UA-2026-11-13-013953-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b9d6d2cf94064faa9a5ac961a2376e4e"
+ },
+ "UA-2026-11-13-013914-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-13-013767-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b2d0a6f5abf44d17b9de731b2ae540b5"
+ },
+ "UA-2026-11-13-013605-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "0f0f63013e5c4828b31bc73bdc2cc4f4"
+ },
+ "UA-2026-11-13-013557-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "ab0c55a92573440d92c3ff175262b91e"
+ },
+ "UA-2026-11-13-013408-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "7d3fe26acf124b46982a3c334f485575"
+ },
+ "UA-2026-11-13-013362-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "52093547541b4d3aa722c71198ca9d14"
+ },
+ "UA-2026-11-13-013179-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "2d45642839dd417c9c130a1fcad45e3b"
+ },
+ "UA-2026-11-13-013154-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "ebc45e89cefe449188c4d014a59a09c9"
+ },
+ "UA-2026-11-13-013147-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "9bc47c4b6b6040009bc82262a69a5250"
+ },
+ "UA-2026-11-13-012919-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "9665eef565b7454896edb0ed1cc8fa02"
+ },
+ "UA-2026-11-13-012854-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "5f135e05b7b940de84eb7a4a0a8c8ddc"
+ },
+ "UA-2026-11-13-012652-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "88111d66ca8c40b4afa2895530540e44"
+ },
+ "UA-2026-11-13-012453-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "a85ade4eadd448ee81da77bb25c53258"
+ },
+ "UA-2026-11-13-012369-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b25118ca8502468b85d3e23d9f79519d"
+ },
+ "UA-2026-11-13-012341-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "930dbb40abd54be8b81a6b2e196158d2"
+ },
+ "UA-2026-11-13-012319-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "e8132401e3b44289bca1d6e87b3f8655"
+ },
+ "UA-2026-11-13-011871-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "aae3d782233a4f64b46a6a437f41cb89"
+ },
+ "UA-2026-11-13-011624-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "df40da44ab944b0eb1cac00c4b5ca6ee"
+ },
+ "UA-2026-11-13-011556-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "88aa7ceb8e05416fa40cbcec149d7fa8"
+ },
+ "UA-2026-11-13-011479-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "2d85cf41c21c4802a38b2e4b3ce57d9f"
+ },
+ "UA-2026-11-13-011455-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-13-011287-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "20a1b35ea0db4d1ca89baba774527e58"
+ },
+ "UA-2026-11-13-011214-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "401a50479561448ca180b6aa49dc5fcb"
+ },
+ "UA-2026-11-13-011182-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "9dcaeb357ff442e1905f42ccc9bc163c"
+ },
+ "UA-2026-11-13-011085-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "8e5f251874cc45e6882ef864a16537de"
+ },
+ "UA-2026-11-13-011084-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "c560541aba214415ac19b82afeab4588"
+ },
+ "UA-2026-11-13-010972-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "4a1180b073da4bb5ad2f53dbea3976f3"
+ },
+ "UA-2026-11-13-010919-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-13-010863-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "8fd1733d28184a3382daaf40e653c407"
+ },
+ "UA-2026-11-13-010718-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "dfc9201f54ec4a688a7500c9eccbd91b"
+ },
+ "UA-2026-11-13-010548-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "dfc796110c4b483b8249a0d39f2dd7b6"
+ },
+ "UA-2026-11-13-010522-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "20140d01e6f1402d98d728500c66db99"
+ },
+ "UA-2026-11-13-010457-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "aefb203774e14815b36720e08f07770e"
+ },
+ "UA-2026-11-13-010393-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "5652a58c4d644c0a817b40af36681d0b"
+ },
+ "UA-2026-11-13-010381-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "e81e608b5910490099f2234f4d620d1e"
+ },
+ "UA-2026-11-13-010101-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "cba6fb0c97f244a99375200bbaf4a3b6"
+ },
+ "UA-2026-11-13-010083-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "f64730aa60344faca3545c4a6776a899"
+ },
+ "UA-2026-11-13-009795-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "6115f4ceb1ef4a6294d32cad746162bc"
+ },
+ "UA-2026-11-13-009777-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "c502234ff02240109bfac2611e7dd2c3"
+ },
+ "UA-2026-11-13-009743-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "784e6550e60c4007a0e330381b28973f"
+ },
+ "UA-2026-11-13-009723-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "d351ebc18187493c87bc921c5184d034"
+ },
+ "UA-2026-11-13-009661-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "a2f9caabe5e94bbb9c5a38b276eb1215"
+ },
+ "UA-2026-11-13-009437-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "a9e83c22349b446f8b99bd82aa22ff30"
+ },
+ "UA-2026-11-13-009411-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "e6eeb0df557f4cf2a4969d630ed82e05"
+ },
+ "UA-2026-11-13-009128-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "2752e7b8c86d44dda066946bfc73123b"
+ },
+ "UA-2026-11-13-009121-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "246f9feb740c456b9c9c5e636828520e"
+ },
+ "UA-2026-11-13-009088-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "98f7779d594040c393825248867a87c1"
+ },
+ "UA-2026-11-13-008769-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "c4c92365d0654479bf1e20b9413c6805"
+ },
+ "UA-2026-11-13-008547-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "a4dbc011d45d41ceb779db44668c9d82"
+ },
+ "UA-2026-11-13-008480-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "adea224f8a5e4d6a91e8cf06d50629c8"
+ },
+ "UA-2026-11-13-008394-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "eb9a5b421d6b419aab87f79bb13fe078"
+ },
+ "UA-2026-11-13-008153-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "e75e5fe3112040218d1d151afe42c9af"
+ },
+ "UA-2026-11-13-008112-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "74c6644902de475a9732c160d2c8836a"
+ },
+ "UA-2026-11-13-008012-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "c593abdf9146431e88ec8b98278873cc"
+ },
+ "UA-2026-11-13-007890-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-13-007782-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "208f43b287c94bfc9dfcc0c0537ed0f5"
+ },
+ "UA-2026-11-13-007651-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "f557c2e716854824a7bc6c0d287f671c"
+ },
+ "UA-2026-11-13-007610-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "7fa223a22af34f63a305a27e69ac6c0b"
+ },
+ "UA-2026-11-13-007558-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b31cfdf6c1504fb097cd6d8348ea1942"
+ },
+ "UA-2026-11-13-007516-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "16d4e9124f5b4cc880f7fb043dceb2ed"
+ },
+ "UA-2026-11-13-007485-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "01c7a125286740028886f02be3435f4b"
+ },
+ "UA-2026-11-13-007422-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "e99f6772c47f4f3b97485431dda020f7"
+ },
+ "UA-2026-11-13-007387-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "69079d33cf97451ab7ae153541c907f0"
+ },
+ "UA-2026-11-13-007330-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "19999237a88a4318b7874910c189fb67"
+ },
+ "UA-2026-11-13-007325-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "2ba755a3901341eea75158fcf1471c58"
+ },
+ "UA-2026-11-13-007281-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "a2396b347e30436fad9428c6baad87a4"
+ },
+ "UA-2026-11-13-007188-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "d8dbfb04420a4d3d9596753c31eb209f"
+ },
+ "UA-2026-11-13-007043-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "1b3b9ce5fdc74602a45a183b0332a3d3"
+ },
+ "UA-2026-11-13-006955-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "694192e0bb3e43d48de77bbe338610d7"
+ },
+ "UA-2026-11-13-006862-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "a9f95a7947c2454d96ec77eb86dc0e0e"
+ },
+ "UA-2026-11-13-006781-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-13-006737-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "1dd637eb3a76478e82351dfbfcec93fe"
+ },
+ "UA-2026-11-13-006731-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "19b5439b866a42b0b0b07c0f014d2aa8"
+ },
+ "UA-2026-11-13-006728-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "cf7aa901d11f45b9b21fc9c9455f2fd1"
+ },
+ "UA-2026-11-13-006642-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-13-006639-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "8d94936ed0b941acb3e7c4af0b3dc0c1"
+ },
+ "UA-2026-11-13-006469-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "7a0269426b114b97a8b0cc1f54cb21c7"
+ },
+ "UA-2026-11-13-006053-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "c027ac41e2ce43ff92e1a0430309caaf"
+ },
+ "UA-2026-11-13-005771-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "01a122fbc6a84af4973c4f70a45327fc"
+ },
+ "UA-2026-11-13-005742-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "2061fe1943a546b3a470fb5c7b05868e"
+ },
+ "UA-2026-11-13-005431-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "7921d1d283f747c9a0e34d346cf89c2c"
+ },
+ "UA-2026-11-13-005357-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "d3e64b6061d0459b90efa458bf0e1248"
+ },
+ "UA-2026-11-13-005314-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "decf8fe302774e078a6039854f6025fa"
+ },
+ "UA-2026-11-13-004891-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-13-004469-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "848e84af5ae7487ea173aed1d62bd9b0"
+ },
+ "UA-2026-11-13-004467-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "87ece5b826bf48588a0608c34115bbc2"
+ },
+ "UA-2026-11-13-004347-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "f59356f20b3343478b549958c644428f"
+ },
+ "UA-2026-11-13-004077-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "1b32ade229614546a3fb99065ec7a736"
+ },
+ "UA-2026-11-13-003974-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "64da94d79e784c8694ebc17aac36e116"
+ },
+ "UA-2026-11-13-003891-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "e546a4b0243148829e625b4c6aafc18e"
+ },
+ "UA-2026-11-13-003881-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "f436acdae10f4f7d8949d27830aa8147"
+ },
+ "UA-2026-11-13-003846-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b262ae056ddc4cd78416ed510e321bad"
+ },
+ "UA-2026-11-13-003795-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "9fa820c4e220460a8650ddd368d7df39"
+ },
+ "UA-2026-11-13-003673-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b160733d254a477697802551b1486eca"
+ },
+ "UA-2026-11-13-003656-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-13-003634-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "f524aca5dea64e25ade6d016926c5b9d"
+ },
+ "UA-2026-11-13-003609-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "180ca5e6ae0e4896985552bbeb52af83"
+ },
+ "UA-2026-11-13-003593-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "dc6ce8399dce41bf9ddef6ce68dc6c29"
+ },
+ "UA-2026-11-13-003562-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "4481261122cb43eaa920d6a896a0f339"
+ },
+ "UA-2026-11-13-003487-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-13-003477-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b4ce6d09e83e4ab6a23e1868414fc99b"
+ },
+ "UA-2026-11-13-003394-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "2b2f55b175bc4b408ed71eb0a2e4ae3d"
+ },
+ "UA-2026-11-13-003368-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "15fc91e7817d44bb842e46670ade9d5a"
+ },
+ "UA-2026-11-13-003324-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b9e0fcae3c8e467382135a8995dce02c"
+ },
+ "UA-2026-11-13-003050-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "c8956d00a18747029a29b77e2ac4c931"
+ },
+ "UA-2026-11-13-002957-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "ad4fbb51d7bb4affa1b9484944c8bb5f"
+ },
+ "UA-2026-11-13-002200-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "9799cd2b7c7145c585d19902b9370a5e"
+ },
+ "UA-2026-11-13-001554-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-13-001403-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "f02d56c82cb441818014d5ba3246c30b"
+ },
+ "UA-2026-11-13-001398-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-13-001060-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "4ba994a6885b4650a5540345a28cbfc9"
+ },
+ "UA-2026-11-13-000996-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "812a4305e162472b8f29a2f0fb99c8a1"
+ },
+ "UA-2026-11-13-000910-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "6fa1619171374370884aa6651b024587"
+ },
+ "UA-2026-11-13-000611-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "1b9b1fee634144658161c26d38b86cbf"
+ },
+ "UA-2026-11-12-018135-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "6cf0ddce8c9c49d4b41607442941696f"
+ },
+ "UA-2026-11-12-017666-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "336ac40ad3c944d7996e2a683cc6bb11"
+ },
+ "UA-2026-11-12-017561-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "unsuccessful"
+ },
+ "UA-2026-11-12-017557-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "706dfe5f94a0457dbd709b20f2022dc3"
+ },
+ "UA-2026-11-12-017554-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "ee28e398f96a4319b8131355f6792f68"
+ },
+ "UA-2026-11-12-017400-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "556c768cfdef4701acfc2afed286ce6e"
+ },
+ "UA-2026-11-12-017345-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "1a1a7818f94040258f4c0a1c23c4530b"
+ },
+ "UA-2026-11-12-017209-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "388cce57f32946c58fbb5383aaac6bf4"
+ },
+ "UA-2026-11-12-017105-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "f719d0540a5b4b1a8234eda90e1a29e5"
+ },
+ "UA-2026-11-12-016966-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "23873bb817e340c0989b682062813113"
+ },
+ "UA-2026-11-12-016680-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "4ad38ee33be4451d81e4c8fc97d27545"
+ },
+ "UA-2026-11-12-016654-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "fb2fe21f112e4b0f84b935d1e5abe4e2"
+ },
+ "UA-2026-11-12-016572-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-12-016344-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "d3ed7dfb8d994cd38e77eb588dc85c1b"
+ },
+ "UA-2026-11-12-016119-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "01d328d0ae6d4290ac9fcdfcdd60f291"
+ },
+ "UA-2026-11-12-015849-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "72428acfa17b4deaa0e0dc45b65aa492"
+ },
+ "UA-2026-11-12-015622-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "00d21f8e517e48bea8b1e0ae948c7c4f"
+ },
+ "UA-2026-11-12-015521-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "34cce78abc52410b8b12de805557fa22"
+ },
+ "UA-2026-11-12-015376-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "unsuccessful"
+ },
+ "UA-2026-11-12-015369-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "ef4f53bedcdf420cad65c94c17d03b83"
+ },
+ "UA-2026-11-12-015226-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "060d81f8063849efb39d53d985f358f9"
+ },
+ "UA-2026-11-12-015206-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "unsuccessful"
+ },
+ "UA-2026-11-12-015106-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "3ba082da3ef14a98b18691dcf9d61fd6"
+ },
+ "UA-2026-11-12-015010-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "70c248b8cf4247729427cdf7cf5129d3"
+ },
+ "UA-2026-11-12-014671-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "7c3f8471daad4d7f88b0f9761d71977d"
+ },
+ "UA-2026-11-12-014655-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "fc89459a0a6e43b3ae7ab86d386bb00a"
+ },
+ "UA-2026-11-12-014561-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "f6bb217945524eeab84afb0b19c9f367"
+ },
+ "UA-2026-11-12-014423-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "eadabf51db8f40cdb484c8248e34e7dd"
+ },
+ "UA-2026-11-12-014221-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "cd4af0ae056e4e729ea857bf9d4630d4"
+ },
+ "UA-2026-11-12-014123-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "dec887c83bd3461eac739935eb63d96e"
+ },
+ "UA-2026-11-12-014105-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "unsuccessful"
+ },
+ "UA-2026-11-12-014030-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "2d3594cd7ee74e34a26b5ca8ffe41235"
+ },
+ "UA-2026-11-12-013957-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "44fba34dc5ed4ba28ec9506af5488850"
+ },
+ "UA-2026-11-12-013867-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "unsuccessful"
+ },
+ "UA-2026-11-12-013752-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "9a78d965a8f9469ebc4987becbe964ea"
+ },
+ "UA-2026-11-12-013665-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "c30748c760db4e1081fd2d87d2964bfe"
+ },
+ "UA-2026-11-12-013585-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "582d309d1b724cb391adee1c9496f017"
+ },
+ "UA-2026-11-12-013563-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "53bfdf2de1eb4f5f9aab36b20d1972ba"
+ },
+ "UA-2026-11-12-013546-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-12-013476-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "unsuccessful"
+ },
+ "UA-2026-11-12-013399-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "63921b8ad2a24c058eb8aae6569fa883"
+ },
+ "UA-2026-11-12-013189-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "bbf303944d06424d8f56ded7c9c4fc70"
+ },
+ "UA-2026-11-12-013089-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "4e1e39637f5e4baea461a00f07e5fd42"
+ },
+ "UA-2026-11-12-013068-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "ef7a3263f7a140acbba7f171ce47db84"
+ },
+ "UA-2026-11-12-012943-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "dfe95cef81484bf5835f81592aec329d"
+ },
+ "UA-2026-11-12-012925-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "485ec23532ee4757bc390ce2cd7ac03d"
+ },
+ "UA-2026-11-12-012912-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "8bc014dd0d2547bdae79d73aeb44ec6f"
+ },
+ "UA-2026-11-12-012875-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "d3b074fba84548a7b6abb45a4860e86a"
+ },
+ "UA-2026-11-12-012843-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "unsuccessful"
+ },
+ "UA-2026-11-12-012822-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "unsuccessful"
+ },
+ "UA-2026-11-12-012743-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "unsuccessful"
+ },
+ "UA-2026-11-12-012454-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-12-012351-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "2baedefd46574b55bb30088611621c6a"
+ },
+ "UA-2026-11-12-012232-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "61ce8fe426954535b6689e5a182181e8"
+ },
+ "UA-2026-11-12-012087-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "0db8365d68bf4783bd5445e7dff88638"
+ },
+ "UA-2026-11-12-012086-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "unsuccessful"
+ },
+ "UA-2026-11-12-012049-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "fbd074ecf3554cfbba610cfa45bd3a13"
+ },
+ "UA-2026-11-12-012026-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "unsuccessful"
+ },
+ "UA-2026-11-12-011955-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "b2ef932f6bfb4cd9a4001ccaee586185"
+ },
+ "UA-2026-11-12-011954-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "f241f8f15dda4e91ada55c3ccc73a1f7"
+ },
+ "UA-2026-11-12-011939-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "420adf9e627c44a6b487ed833b4436e2"
+ },
+ "UA-2026-11-12-011746-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "70226703483d4ea5a7a4e856faad06f9"
+ },
+ "UA-2026-11-12-011700-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "a1f3d21ad6ce45f1bdda5a633cc3e573"
+ },
+ "UA-2026-11-12-011583-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "a0452e5ef07742e2bdf98e945e9402f5"
+ },
+ "UA-2026-11-12-011217-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-12-011075-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "5dd24abba6a74480a0a0c41ed1423390"
+ },
+ "UA-2026-11-12-011039-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-12-010897-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.qualification",
+  "id": "ae56d86728f84e5c887aa7018f83c494"
+ },
+ "UA-2026-11-12-010695-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "6dec62639cf5420680a1cd3d21d24e86"
+ },
+ "UA-2026-11-12-010662-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "cancelled"
+ },
+ "UA-2026-11-12-010521-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "e9b95a22923b475380aeefaf2c583cd1"
+ },
+ "UA-2026-11-12-010428-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "e7d44f8ef6aa49eab0cb13877d3ec4d0"
+ },
+ "UA-2026-11-12-010397-a": {
+  "found_by": [
+   "cpv"
+  ],
+  "status": "active.tendering",
+  "id": "9949e4f7d61741b6b2322fffc67f4862"
  }
 }

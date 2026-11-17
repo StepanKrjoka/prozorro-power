@@ -433,5 +433,62 @@
   "truncated": [],
   "seen": 40039,
   "kept": 40039
+ },
+ {
+  "run": "2026-11-17T03:28:47+00:00",
+  "windows": [
+   {
+    "query": "cpv",
+    "start": "2026-09-01",
+    "end": "2026-09-15",
+    "total": 450,
+    "fetched": 450
+   },
+   {
+    "query": "cpv",
+    "start": "2026-09-16",
+    "end": "2026-09-30",
+    "total": 719,
+    "fetched": 719
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-01",
+    "end": "2026-10-16",
+    "total": 918,
+    "fetched": 918
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-17",
+    "end": "2026-10-24",
+    "total": 635,
+    "fetched": 635
+   },
+   {
+    "query": "cpv",
+    "start": "2026-10-25",
+    "end": "2026-10-31",
+    "total": 430,
+    "fetched": 430
+   },
+   {
+    "query": "cpv",
+    "start": "2026-11-01",
+    "end": "2026-11-09",
+    "total": 458,
+    "fetched": 458
+   },
+   {
+    "query": "cpv",
+    "start": "2026-11-10",
+    "end": "2026-11-17",
+    "total": 730,
+    "fetched": 730
+   }
+  ],
+  "truncated": [],
+  "seen": 4340,
+  "kept": 4340
  }
 ]
